@@ -17,8 +17,11 @@
     fetch(url)
     .then(response=>response.text())
     .then(data=>{
-      console.log(data);
-
+      // console.log(data);
+      let parser = new DOMParser();
+      let xml = parser.parseFromString(data, "text/xml");
+      document.getElementById('output').textContent = data;
+      console.log(xml);
     })
   })
 </script>
