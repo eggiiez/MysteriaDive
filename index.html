@@ -5,19 +5,15 @@
 <p id="demo"></p>
 
 <script>
-  var xhttp = new XMLHttpRequest();
-  xhttp.onnreadystatechange = function() {
-    if (this.readyState == 4 && this.status == 200) {
-      myFunction(this);
-    }
-  };
-  xhttp.open("GET", "recipes.xml", true);
-  xhttp.send();
+  document.addEventListener('DOMContentLoaded', ()=>{
+    let url = "recipes.xml";
+    fetch(url)
+    .then(response=>response.text())
+    .then(data=>{
+      console.log(data);
 
-  function myFunction(xml) {
-    var xmlDoc = xml.responseXML;
-    document.getElementById("demo").innerHTML = xmlDoc.getElementsByTagName("name")[0].childNodes[0].nodeValue;
-  }
+    })
+  })
 </script>
 
 </body>
