@@ -23,8 +23,21 @@
       let xml = parser.parseFromString(data, "text/xml");
       document.getElementById('output').textContent = data;
       console.log(xml);
-    })
+
+      buildRecipeList(xml);
+    });
   })
+
+  function buildRecipeList(xml){
+    let list = document.geteElementById('name');
+    let names = xml.getElementsByTagName('name');
+    for(let i=0; i<name.length; i++){
+      let li = document.createElement('li');
+      let name = names[i].firstChild.nodeValue;
+      li.textContent = name;
+      list.appendChild(li);
+    }
+  }
 </script>
 
 </body>
