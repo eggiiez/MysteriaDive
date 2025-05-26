@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+	<recipe>
+		<name>Squire's Sword</name>
+		<category>Weapons</category>
+		<job>Blacksmith</job>
+	</recipe>
+	<recipe>
+		<name>Squire's Sword 2</name>
+		<category>Weapons</category>
+		<job>Blacksmith</job>
+	</recipe>
+</recipes>
