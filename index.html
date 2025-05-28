@@ -31,7 +31,7 @@
   function buildRecipeList(xml){
     let list = document.getElementById('name');
     let names = xml.getElementsByTagName('name');
-    for(let i=0; i<name.length; i++){
+    for(let i=0; i<names.length; i++){
       let li = document.createElement('li');
       let name = names[i].firstChild.nodeValue;
       li.textContent = name;
