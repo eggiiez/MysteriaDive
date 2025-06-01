@@ -650,7 +650,6 @@
       // console.log(data);
       let parser = new DOMParser();
       let xml = parser.parseFromString(data, "text/xml");
-      document.getElementById('output').textContent = data;
       console.log(xml);
       xmlDoc = xml;
       buildRecipeList("ordinary");
