@@ -1,16 +1,626 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+</head>
+  
 <body>
+<main style="position: relative;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+          <h2>Recipes</h2>
+          <!-- Cook -->
+          <div class="panel-group" id="cook-accordion">
+            <div class="panel panel-default" id="craft-list-panel">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#cook-accordion" href="#cook-recipe-list" class="collapsed">
+                    Cook Recipes
+                  </a>
+                </h4>
+              </div> <!-- class="panel-heading" -->
 
-<header>
-  <h1> xml testing
-</header>
-<main>
-  <ul id="name"></ul>
-  <ul id="job"></ul>
-  <ul id="category"></ul>
-  <pre id="output"></pre>
-</main>
+              <div id="cook-recipe-list" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                  <div class="panel-group" id="cook-recipes-accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+
+                      <!-- Tabs -->
+                      <ul class="nav nav-pills" role="tablist">
+                        <li role="presentation" class="active">
+                          <a href="#cook-materials" role="tab" data-toggle="tab">
+                            Materials
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#cook-weapons" role="tab" data-toggle="tab">
+                            Weapons
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#cook-tools" role="tab" data-toggle="tab">
+                            Tools
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#cook-armour" role="tab" data-toggle="tab">
+                            Armours
+                          </a>
+                        </li>
+                      </ul>
+
+                      <!-- Recipe Tables -->
+                      <div class="tab-content">
+
+                        <!-- Cook Materials -->
+                        <div role="tabpanel" class="tab-pane active" id="cook-materials">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                            </tr>
+                             <tbody id="cook-materials-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Cook Weapons -->
+                        <div role="tabpanel" class="tab-pane" id="cook-weapons">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                            </tr>
+                             <tbody id="cook-weapons-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Cook Tools -->
+                        <div role="tabpanel" class="tab-pane" id="cook-tools">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                            </tr>
+                             <tbody id="cook-tools-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Cook Armour -->
+                        <div role="tabpanel" class="tab-pane" id="cook-armour">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="cook-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                      </div> <!-- class="tab-content" -->
+
+                    </div> <!-- class="panel panel-default" -->
+                  </div> <!-- class="panel-group" id="cook-recipes-accordion" -->
+                </div> <!-- class="panel-body" -->
+              </div> <!-- id="cook-recipe-list" class="panel-collapse collapse" -->
+            </div> <!-- class="panel panel-default" id="craft-list-panel" -->
+          </div> <!-- class="panel-group" id="cook-accordion" -->
+
+          <!-- Blacksmith -->
+          <div class="panel-group" id="blacksmith-accordion">
+            <div class="panel panel-default" id="craft-list-panel">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#blacksmith-accordion" href="#blacksmith-recipe-list" class="collapsed">
+                    Blacksmith Recipes
+                  </a>
+                </h4>
+              </div> <!-- class="panel-heading" -->
+
+              <div id="blacksmith-recipe-list" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                  <div class="panel-group" id="blacksmith-recipes-accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+
+                      <!-- Tabs -->
+                      <ul class="nav nav-pills" role="tablist">
+                        <li role="presentation" class="active">
+                          <a href="#blacksmith-materials" role="tab" data-toggle="tab">
+                            Materials
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#blacksmith-weapons" role="tab" data-toggle="tab">
+                            Weapons
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#blacksmith-tools" role="tab" data-toggle="tab">
+                            Tools
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#blacksmith-armour" role="tab" data-toggle="tab">
+                            Armours
+                          </a>
+                        </li>
+                      </ul>
+
+                      <!-- Recipe Tables -->
+                      <div class="tab-content">
+
+                        <!-- Blacksmith Materials -->
+                        <div role="tabpanel" class="tab-pane active" id="blacksmith-materials">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="blacksmith-materials-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Blacksmith Weapons -->
+                        <div role="tabpanel" class="tab-pane" id="blacksmith-weapons">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="blacksmith-weapons-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Blacksmith Tools -->
+                        <div role="tabpanel" class="tab-pane" id="blacksmith-tools">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="blacksmith-tools-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Blacksmith Armour -->
+                        <div role="tabpanel" class="tab-pane" id="blacksmith-armour">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="blacksmith-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                      </div> <!-- class="tab-content" -->
+
+                    </div> <!-- class="panel panel-default" -->
+                  </div> <!-- class="panel-group" id="blacksmith-recipes-accordion" -->
+                </div> <!-- class="panel-body" -->
+              </div> <!-- id="blacksmith-recipe-list" class="panel-collapse collapse" -->
+            </div> <!-- class="panel panel-default" id="craft-list-panel" -->
+          </div> <!-- class="panel-group" id="blacksmith-accordion" -->
+
+          <!-- Carpenter -->
+          <div class="panel-group" id="carpenter-accordion">
+            <div class="panel panel-default" id="craft-list-panel">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#carpenter-accordion" href="#carpenter-recipe-list" class="collapsed">
+                    Carpenter Recipes
+                  </a>
+                </h4>
+              </div> <!-- class="panel-heading" -->
+
+              <div id="carpenter-recipe-list" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                  <div class="panel-group" id="carpenter-recipes-accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+
+                      <!-- Tabs -->
+                      <ul class="nav nav-pills" role="tablist">
+                        <li role="presentation" class="active">
+                          <a href="#carpenter-materials" role="tab" data-toggle="tab">
+                            Materials
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#carpenter-weapons" role="tab" data-toggle="tab">
+                            Weapons
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#carpenter-tools" role="tab" data-toggle="tab">
+                            Tools
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#carpenter-armour" role="tab" data-toggle="tab">
+                            Armours
+                          </a>
+                        </li>
+                      </ul>
+
+                      <!-- Recipe Tables -->
+                      <div class="tab-content">
+
+                        <!-- Carpenter Materials -->
+                        <div role="tabpanel" class="tab-pane active" id="carpenter-materials">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
+                            </tr>
+                             <tbody id="carpenter-materials-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Carpenter Weapons -->
+                        <div role="tabpanel" class="tab-pane" id="carpenter-weapons">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
+                            </tr>
+                             <tbody id="carpenter-weapons-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Carpenter Tools -->
+                        <div role="tabpanel" class="tab-pane" id="carpenter-tools">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
+                            </tr>
+                             <tbody id="carpenter-tools-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Carpenter Armour -->
+                        <div role="tabpanel" class="tab-pane" id="carpenter-armour">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
+                            </tr>
+                             <tbody id="carpenter-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                      </div> <!-- class="tab-content" -->
+
+                    </div> <!-- class="panel panel-default" -->
+                  </div> <!-- class="panel-group" id="carpenter-recipes-accordion" -->
+                </div> <!-- class="panel-body" -->
+              </div> <!-- id="carpenter-recipe-list" class="panel-collapse collapse" -->
+            </div> <!-- class="panel panel-default" id="craft-list-panel" -->
+          </div> <!-- class="panel-group" id="carpenter-accordion" -->
+
+          <!-- Tailor -->
+          <div class="panel-group" id="tailor-accordion">
+            <div class="panel panel-default" id="craft-list-panel">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#tailor-accordion" href="#tailor-recipe-list" class="collapsed">
+                    Tailor Recipes
+                  </a>
+                </h4>
+              </div> <!-- class="panel-heading" -->
+
+              <div id="tailor-recipe-list" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                  <div class="panel-group" id="tailor-recipes-accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+
+                      <!-- Tabs -->
+                      <ul class="nav nav-pills" role="tablist">
+                        <li role="presentation" class="active">
+                          <a href="#tailor-materials" role="tab" data-toggle="tab">
+                            Materials
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#tailor-weapons" role="tab" data-toggle="tab">
+                            Weapons
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#tailor-tools" role="tab" data-toggle="tab">
+                            Tools
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#tailor-armour" role="tab" data-toggle="tab">
+                            Armours
+                          </a>
+                        </li>
+                      </ul>
+
+                      <!-- Recipe Tables -->
+                      <div class="tab-content">
+
+                        <!-- Tailor Materials -->
+                        <div role="tabpanel" class="tab-pane active" id="tailor-materials">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="tailor-materials-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Tailor Weapons -->
+                        <div role="tabpanel" class="tab-pane" id="tailor-weapons">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="tailor-weapons-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Tailor Tools -->
+                        <div role="tabpanel" class="tab-pane" id="tailor-tools">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="tailor-tools-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Tailor Armour -->
+                        <div role="tabpanel" class="tab-pane" id="tailor-armour">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="tailor-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                      </div> <!-- class="tab-content" -->
+
+                    </div> <!-- class="panel panel-default" -->
+                  </div> <!-- class="panel-group" id="tailor-recipes-accordion" -->
+                </div> <!-- class="panel-body" -->
+              </div> <!-- id="tailor-recipe-list" class="panel-collapse collapse" -->
+            </div> <!-- class="panel panel-default" id="craft-list-panel" -->
+          </div> <!-- class="panel-group" id="tailor-accordion" -->
+
+          <!-- Alchemist -->
+          <div class="panel-group" id="alchemist-accordion">
+            <div class="panel panel-default" id="craft-list-panel">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#alchemist-accordion" href="#alchemist-recipe-list" class="collapsed">
+                    Alchemist Recipes
+                  </a>
+                </h4>
+              </div> <!-- class="panel-heading" -->
+
+              <div id="alchemist-recipe-list" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                  <div class="panel-group" id="alchemist-recipes-accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+
+                      <!-- Tabs -->
+                      <ul class="nav nav-pills" role="tablist">
+                        <li role="presentation" class="active">
+                          <a href="#alchemist-materials" role="tab" data-toggle="tab">
+                            Materials
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#alchemist-weapons" role="tab" data-toggle="tab">
+                            Weapons
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#alchemist-tools" role="tab" data-toggle="tab">
+                            Tools
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#alchemist-armour" role="tab" data-toggle="tab">
+                            Armours
+                          </a>
+                        </li>
+                      </ul>
+
+                      <!-- Recipe Tables -->
+                      <div class="tab-content">
+
+                        <!-- Alchemist Materials -->
+                        <div role="tabpanel" class="tab-pane active" id="alchemist-materials">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="alchemist-materials-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Alchemist Weapons -->
+                        <div role="tabpanel" class="tab-pane" id="alchemist-weapons">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="alchemist-weapons-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Alchemist Tools -->
+                        <div role="tabpanel" class="tab-pane" id="alchemist-tools">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="alchemist-tools-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Alchemist Armour -->
+                        <div role="tabpanel" class="tab-pane" id="alchemist-armour">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="alchemist-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                      </div> <!-- class="tab-content" -->
+
+                    </div> <!-- class="panel panel-default" -->
+                  </div> <!-- class="panel-group" id="alchemist-recipes-accordion" -->
+                </div> <!-- class="panel-body" -->
+              </div> <!-- id="alchemist-recipe-list" class="panel-collapse collapse" -->
+            </div> <!-- class="panel panel-default" id="craft-list-panel" -->
+          </div> <!-- class="panel-group" id="alchemist-accordion" -->
+
+          <!-- Artist -->
+          <div class="panel-group" id="artist-accordion">
+            <div class="panel panel-default" id="craft-list-panel">
+              <div class="panel-heading">
+                <h4 class="panel-title">
+                  <a data-toggle="collapse" data-parent="#artist-accordion" href="#artist-recipe-list" class="collapsed">
+                    Artist Recipes
+                  </a>
+                </h4>
+              </div> <!-- class="panel-heading" -->
+
+              <div id="artist-recipe-list" class="panel-collapse collapse" style="height: 0px;">
+                <div class="panel-body">
+                  <div class="panel-group" id="artist-recipes-accordion" role="tablist" aria-multiselectable="true">
+                    <div class="panel panel-default">
+
+                      <!-- Tabs -->
+                      <ul class="nav nav-pills" role="tablist">
+                        <li role="presentation" class="active">
+                          <a href="#artist-materials" role="tab" data-toggle="tab">
+                            Materials
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#artist-weapons" role="tab" data-toggle="tab">
+                            Weapons
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#artist-tools" role="tab" data-toggle="tab">
+                            Tools
+                          </a>
+                        </li>
+                        <li role="presentation" class="">
+                          <a href="#artist-armour" role="tab" data-toggle="tab">
+                            Armours
+                          </a>
+                        </li>
+                      </ul>
+
+                      <!-- Recipe Tables -->
+                      <div class="tab-content">
+
+                        <!-- Artist Materials -->
+                        <div role="tabpanel" class="tab-pane active" id="artist-materials">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="artist-materials-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Artist Weapons -->
+                        <div role="tabpanel" class="tab-pane" id="artist-weapons">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="artist-weapons-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Artist Tools -->
+                        <div role="tabpanel" class="tab-pane" id="artist-tools">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="artist-tools-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Artist Armour -->
+                        <div role="tabpanel" class="tab-pane" id="artist-armour">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Category</th>
+                              <th>Job</th>
+                            </tr>
+                             <tbody id="artist-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                      </div> <!-- class="tab-content" -->
+
+                    </div> <!-- class="panel panel-default" -->
+                  </div> <!-- class="panel-group" id="artist-recipes-accordion" -->
+                </div> <!-- class="panel-body" -->
+              </div> <!-- id="artist-recipe-list" class="panel-collapse collapse" -->
+            </div> <!-- class="panel panel-default" id="craft-list-panel" -->
+          </div> <!-- class="panel-group" id="artist-accordion" -->
+
+        </div> <!-- col-md-8 -->
+      </div> <!-- row -->
+    </div> <!-- container -->
+  </main>
 
 <script>
   document.addEventListener('DOMContentLoaded', ()=>{
@@ -29,13 +639,70 @@
   })
 
   function buildRecipeList(xml){
-    let list = document.getElementById('name');
-    let names = xml.getElementsByTagName('name');
-    for(let i=0; i<names.length; i++){
-      let li = document.createElement('li');
-      let name = names[i].firstChild.nodeValue;
-      li.textContent = name;
-      list.appendChild(li);
+    let recipes = xml.getElementsByTagName("recipe");
+    for(let i=0; i<recipes.length; i++){
+      let recipe = recipes[i];
+
+      // get category attr
+      let tableId = recipe.getAttribute("job") + "-" + recipe.getAttribute("category") + "-recipes";
+      let table = document.getElementById(tableId);
+      if(table == null){
+        continue;
+      }
+
+      // make new row
+      let tr = document.createElement('tr');
+        
+      // name col
+      if(recipe.getElementsByTagName("name")[0] != null){
+        let name = recipe.getElementsByTagName("name")[0].firstChild.nodeValue;
+        let tdName = document.createElement('td');
+        tdName.textContent = name;
+        tr.appendChild(tdName);
+      }
+
+      // level col
+      if(recipe.getElementsByTagName("level")[0] != null){
+        let cat = recipe.getElementsByTagName("level")[0].firstChild.nodeValue;
+        let tdCat = document.createElement('td');
+        tdCat.textContent = cat;
+        tr.appendChild(tdCat);
+      }
+
+      // skill col
+      if(recipe.getElementsByTagName("skill")[0] != null)
+        let job = recipe.getElementsByTagName("skill")[0].firstChild.nodeValue;
+        let tdJob = document.createElement('td');
+        tdJob.textContent = job;
+        tr.appendChild(tdJob);
+      }
+
+      // materials col
+      let materials = recipe.getElementsByTagName("material");
+      if(materials != null && materials.length > 0){
+        let tdMats = document.createElement('td');
+
+        for(let j=0; j<materials.length; j++){
+          // name
+          if(materials[j].getElementsByTagName("name")[0] != null){
+            tdMats.textContent += materials[j].getElementsByTagName("name")[0].firstChild.nodeValue;
+          }
+
+          if(materials[j].getElementsByTagName("amount")[0] != null){
+            tdMats.textContent += " x" + materials[j].getElementsByTagName("amount")[0].firstChild.nodeValue;
+          }
+
+          if(materials[j].id != null){
+            tdMats.textContent += " (" + materials[j].id + ")";
+          }
+
+          if(materials[j+1] != null){
+            tdMats.textContent += "\r\n";
+          }
+        }
+        tr.appendChild(tdMats);
+      }
+      table.appendChild(tr);
     }
   }
 </script>
