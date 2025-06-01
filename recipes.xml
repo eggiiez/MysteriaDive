@@ -1,13 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <recipes>
-	<recipe>
-		<name>Squire's Sword</name>
-		<category>Weapons</category>
-		<job>Blacksmith</job>
-	</recipe>
-	<recipe>
-		<name>Squire's Sword 2</name>
-		<category>Weapons</category>
-		<job>Blacksmith</job>
+	<recipe category="weapons" job="carpenter">
+		<name>Earth Stick</name>
+		<quality>
+			<fine>
+				<level>3</level>
+				<skill>430</skill>
+				<materials>
+					<material>
+						<name>Earth Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Earth Log</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</fine>
+			<notable>
+				<level>3</level>
+				<skill>520</skill>
+				<materials>
+					<material>
+						<name>Earth Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Earth Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Earth Mana</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</notable>
+		</quality>
 	</recipe>
 </recipes>
