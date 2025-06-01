@@ -4,6 +4,7 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style> td {white-space:pre; } </style>
 </head>
   
 <body>
@@ -13,6 +14,23 @@
         <div class="col-md-2"></div>
         <div class="col-md-8">
           <h2>Recipes</h2>
+
+          <!-- Level Select -->
+          <div class="btn-group" data-toggle="buttons" style="float:right; margin-top:-40px">
+            <label class="btn btn-primary active">
+              <input type="radio" id="ordinary" name="recipe-level" onchange="levelChange(this);" value="ordinary" checked> Ordinary
+            </label>
+            <label class="btn btn-primary">
+              <input type="radio" id="fine" name="recipe-level" onchange="levelChange(this);" value="fine" checked> Fine
+            </label>
+            <label class="btn btn-primary">
+              <input type="radio" id="notable" name="recipe-level" onchange="levelChange(this);" value="notable" checked> Notable
+            </label>
+            <label class="btn btn-primary">
+              <input type="radio" id="supreme" name="recipe-level" onchange="levelChange(this);" value="supreme" checked> Supreme
+            </label>
+          </div>
+          
           <!-- Cook -->
           <div class="panel-group" id="cook-accordion">
             <div class="panel panel-default" id="craft-list-panel">
@@ -623,6 +641,7 @@
   </main>
 
 <script>
+  var xmlDoc;
   document.addEventListener('DOMContentLoaded', ()=>{
     let url = "recipes.xml";
     fetch(url)
@@ -633,13 +652,17 @@
       let xml = parser.parseFromString(data, "text/xml");
       document.getElementById('output').textContent = data;
       console.log(xml);
-
-      buildRecipeList(xml);
+      xmlDoc = xml;
+      buildRecipeList("ordinary");
     });
   })
 
-  function buildRecipeList(xml){
-    let recipes = xml.getElementsByTagName("recipe");
+  function levelChange(src){
+    buildRecipeList(src.value);
+  }
+  
+  function buildRecipeList(level){
+    let recipes = xmlDoc.getElementsByTagName("recipe");
     for(let i=0; i<recipes.length; i++){
       let recipe = recipes[i];
 
@@ -661,48 +684,66 @@
         tr.appendChild(tdName);
       }
 
-      // level col
-      if(recipe.getElementsByTagName("level")[0] != null){
-        let cat = recipe.getElementsByTagName("level")[0].firstChild.nodeValue;
-        let tdCat = document.createElement('td');
-        tdCat.textContent = cat;
-        tr.appendChild(tdCat);
-      }
+      // find quality level info
+      let levels = recipe.getElementsByTagName(level);
+      if(levels[0] != null) {
+        let levelInfo = levels[0];
 
-      // skill col
-      if(recipe.getElementsByTagName("skill")[0] != null)
-        let job = recipe.getElementsByTagName("skill")[0].firstChild.nodeValue;
-        let tdJob = document.createElement('td');
-        tdJob.textContent = job;
-        tr.appendChild(tdJob);
-      }
-
-      // materials col
-      let materials = recipe.getElementsByTagName("material");
-      if(materials != null && materials.length > 0){
-        let tdMats = document.createElement('td');
-
-        for(let j=0; j<materials.length; j++){
-          // name
-          if(materials[j].getElementsByTagName("name")[0] != null){
-            tdMats.textContent += materials[j].getElementsByTagName("name")[0].firstChild.nodeValue;
-          }
-
-          if(materials[j].getElementsByTagName("amount")[0] != null){
-            tdMats.textContent += " x" + materials[j].getElementsByTagName("amount")[0].firstChild.nodeValue;
-          }
-
-          if(materials[j].id != null){
-            tdMats.textContent += " (" + materials[j].id + ")";
-          }
-
-          if(materials[j+1] != null){
-            tdMats.textContent += "\r\n";
-          }
+        // level col
+        if(levelInfo.getElementsByTagName("level")[0] != null) {
+          let lvl = levelInfo.getElementsByTagName("level")[0].firstChild.nodeValue;
+          let tdLvl = document.createElement('td');
+          tdLvl.textContent = lvl;
+          tr.appendChild(tdLvl);
         }
-        tr.appendChild(tdMats);
+
+        // skill col
+        if(levelInfo.getElementsByTagName("skill")[0] != null) {
+          let skill = levelInfo.getElementsByTagName("skill")[0].firstChild.nodeValue;
+          let tdSkill = document.createElement('td');
+          tdSkill.textContent = skill;
+          tr.appendChild(tdSkill);
+        }
+
+        // materials col
+        let materials = levelInfo.getElementsByTagName("material");
+        if(materials != null && materials.length > 0) {
+          let tdMats = document.createElement('td');
+          for(let j=0; j<materials.length; j++) {
+            // name
+            if(materials[j].getElementsByTagName("name")[0] != null){
+              tdMats.textContent += materials[j].getElementsByTagName("name")[0].firstChild.nodeValue;
+            }
+
+            if(materials[j].getElementsByTagName("amount")[0] != null){
+              tdMats.textContent += " x" + materials[j].getElementsByTagName("amount")[0].firstChild.nodeValue;
+            }
+
+            if(materials[j].id != null){
+              tdMats.textContent += " (" + materials[j].id + ")";
+            }
+
+            if(materials[j+1] != null){
+              tdMats.textContent += "\r\n";
+            }
+          }
+
+          tr.appendChild(tdMats);
+        }
       }
-      table.appendChild(tr);
+      else {
+        let tdMissing = document.createElement('td');
+        tdMissing.setAttribute("rowspan", "3");
+        tdMissing.textContent = "No recipe data for this level";
+        tr.appendChild(tdMissing);
+      }
+
+      if(table.childNodes[i] != null){
+        table.replaceChild(tr, table.childNodes[i]);
+      }
+      else{
+        table.appendChild(tr);
+      }
     }
   }
 </script>
