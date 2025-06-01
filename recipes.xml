@@ -37,4 +37,174 @@
 			</notable>
 		</quality>
 	</recipe>
+	<recipe category="weapons" job="carpenter">
+		<name>Water Stick</name>
+		<quality>
+			<fine>
+				<level>3</level>
+				<skill>420</skill>
+				<materials>
+					<material>
+						<name>Water Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Water Log</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</fine>
+			<notable>
+				<level>3</level>
+				<skill>510</skill>
+				<materials>
+					<material>
+						<name>Water Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Water Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Water Mana</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</notable>
+		</quality>
+	</recipe>
+	<recipe category="weapons" job="carpenter">
+		<name>Wind Stick</name>
+		<quality>
+			<fine>
+				<level>3</level>
+				<skill>410</skill>
+				<materials>
+					<material>
+						<name>Wind Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Wind Log</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</fine>
+			<notable>
+				<level>3</level>
+				<skill>500</skill>
+				<materials>
+					<material>
+						<name>Wind Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Wind Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Wind Mana</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</notable>
+		</quality>
+	</recipe>
+	<recipe category="weapons" job="carpenter">
+		<name>Fire Stick</name>
+		<quality>
+			<fine>
+				<level>3</level>
+				<skill>400</skill>
+				<materials>
+					<material>
+						<name>Fire Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Fire Log</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</fine>
+			<notable>
+				<level>3</level>
+				<skill>490</skill>
+				<materials>
+					<material>
+						<name>Fire Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Fire Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Fire Mana</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</notable>
+		</quality>
+	</recipe>
+	<recipe category="weapons" job="carpenter">
+		<name>Cherry Stick</name>
+		<quality>
+			<fine>
+				<level>3</level>
+				<skill>220</skill>
+				<materials>
+					<material>
+						<name>Cherry Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Cherry Log</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</fine>
+			<notable>
+				<level>3</level>
+				<skill>260</skill>
+				<materials>
+					<material>
+						<name>Cherry Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Cherry Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Cherry Branch</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</notable>
+			<supreme>
+				<level>4</level>
+				<skill>310</skill>
+				<materials>
+					<material>
+						<name>Cherry Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Elder Cherry Log</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Cherry Branch</name>
+						<amount>1</amount>
+					</material>
+					<material>
+						<name>Cherry Nectar</name>
+						<amount>1</amount>
+					</material>
+				</materials>
+			</supreme>
+		</quality>
+	</recipe>
 </recipes>
