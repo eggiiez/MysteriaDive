@@ -1567,7 +1567,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Bronze Pickaxe</name>
     <versions>
       <Ordinary>
@@ -1615,7 +1615,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Iron Pickaxe</name>
     <versions>
       <Ordinary>
@@ -1663,7 +1663,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Silver Pickaxe</name>
     <versions>
       <Ordinary>
@@ -1693,7 +1693,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Bronze Hoe</name>
     <versions>
       <Ordinary>
@@ -1741,7 +1741,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Bronze Frying Pan</name>
     <versions>
       <Ordinary>
@@ -1789,7 +1789,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Bronze Hammer</name>
     <versions>
       <Ordinary>
@@ -1837,7 +1837,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Bronze Needle</name>
     <versions>
       <Ordinary>
@@ -1885,7 +1885,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Iron Hoe</name>
     <versions>
       <Ordinary>
@@ -1933,7 +1933,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Iron Frying Pan</name>
     <versions>
       <Ordinary>
@@ -1981,7 +1981,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Iron Hammer</name>
     <versions>
       <Ordinary>
@@ -2029,7 +2029,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Iron Needle</name>
     <versions>
       <Ordinary>
@@ -2077,7 +2077,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Silver Hoe</name>
     <versions>
       <Ordinary>
@@ -2107,7 +2107,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Silver Frying Pan</name>
     <versions>
       <Ordinary>
@@ -2137,7 +2137,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Silver Hammer</name>
     <versions>
       <Ordinary>
@@ -2167,7 +2167,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Blacksmith" category="Life Tools">
+  <recipe job="Blacksmith" category="Tools">
     <name>Silver Needle</name>
     <versions>
       <Ordinary>
@@ -2197,7 +2197,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Oak Axe</name>
     <versions>
       <Ordinary>
@@ -2245,7 +2245,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Oak Rod</name>
     <versions>
       <Ordinary>
@@ -2293,7 +2293,7 @@
     </versions>
   </recipe>
 
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Oak Saw</name>
     <versions>
       <Ordinary>
@@ -2341,7 +2341,7 @@
     </versions>
   </recipe>
 
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Oak Brush</name>
     <versions>
       <Ordinary>
@@ -2389,7 +2389,7 @@
     </versions>
   </recipe>
 
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Pine Axe</name>
     <versions>
       <Ordinary>
@@ -2437,7 +2437,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Pine Rod</name>
     <versions>
       <Ordinary>
@@ -2485,7 +2485,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Pine Saw</name>
     <versions>
       <Ordinary>
@@ -2533,7 +2533,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Pine Brush</name>
     <versions>
       <Ordinary>
@@ -2581,7 +2581,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Cherry Axe</name>
     <versions>
       <Ordinary>
@@ -2611,7 +2611,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Cherry Rod</name>
     <versions>
       <Ordinary>
@@ -2641,7 +2641,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Cherry Saw</name>
     <versions>
       <Ordinary>
@@ -2671,7 +2671,7 @@
     </versions>
   </recipe>
   
-  <recipe job="Carpenter" category="Life Tools">
+  <recipe job="Carpenter" category="Tools">
     <name>Cherry Brush</name>
     <versions>
       <Ordinary>
