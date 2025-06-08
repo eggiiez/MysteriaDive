@@ -16,7 +16,7 @@
           <h2>Recipes</h2>
 
           <!-- Level Select -->
-          <div class="btn-group" data-toggle="buttons" style="float:right; margin-top:-40px">
+          <div class="btn-group recipe-level-select" data-toggle="buttons">
             <label class="btn btn-primary active">
               <input type="radio" id="ordinary" name="recipe-level" onchange="levelChange(this);" value="ordinary" checked> Ordinary
             </label>
@@ -30,7 +30,7 @@
               <input type="radio" id="supreme" name="recipe-level" onchange="levelChange(this);" value="supreme" checked> Supreme
             </label>
           </div>
-          
+
           <!-- Cook -->
           <div class="panel-group" id="cook-accordion">
             <div class="panel panel-default" id="craft-list-panel">
@@ -115,8 +115,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="cook-armour-recipes"></tbody>
                           </table>
@@ -169,6 +170,11 @@
                             Armours
                           </a>
                         </li>
+                        <li role="presentation" class="">
+                          <a href="#blacksmith-shields" role="tab" data-toggle="tab">
+                            Shields
+                          </a>
+                        </li>
                       </ul>
 
                       <!-- Recipe Tables -->
@@ -179,8 +185,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="blacksmith-materials-recipes"></tbody>
                           </table>
@@ -191,8 +198,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="blacksmith-weapons-recipes"></tbody>
                           </table>
@@ -203,8 +211,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="blacksmith-tools-recipes"></tbody>
                           </table>
@@ -215,10 +224,24 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="blacksmith-armour-recipes"></tbody>
+                          </table>
+                        </div>
+
+                        <!-- Blacksmith Shields -->
+                        <div role="tabpanel" class="tab-pane" id="blacksmith-shields">
+                          <table class="table table-hover">
+                            <tr>
+                              <th>Name</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
+                            </tr>
+                             <tbody id="blacksmith-shields-recipes"></tbody>
                           </table>
                         </div>
 
@@ -383,8 +406,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="tailor-materials-recipes"></tbody>
                           </table>
@@ -395,8 +419,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="tailor-weapons-recipes"></tbody>
                           </table>
@@ -407,8 +432,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="tailor-tools-recipes"></tbody>
                           </table>
@@ -419,8 +445,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="tailor-armour-recipes"></tbody>
                           </table>
@@ -483,8 +510,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="alchemist-materials-recipes"></tbody>
                           </table>
@@ -495,8 +523,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="alchemist-weapons-recipes"></tbody>
                           </table>
@@ -507,8 +536,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="alchemist-tools-recipes"></tbody>
                           </table>
@@ -519,8 +549,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="alchemist-armour-recipes"></tbody>
                           </table>
@@ -583,8 +614,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="artist-materials-recipes"></tbody>
                           </table>
@@ -595,8 +627,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="artist-weapons-recipes"></tbody>
                           </table>
@@ -607,8 +640,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="artist-tools-recipes"></tbody>
                           </table>
@@ -619,8 +653,9 @@
                           <table class="table table-hover">
                             <tr>
                               <th>Name</th>
-                              <th>Category</th>
-                              <th>Job</th>
+                              <th>Level</th>
+                              <th>Recommended Skill</th>
+                              <th>Materials</th>
                             </tr>
                              <tbody id="artist-armour-recipes"></tbody>
                           </table>
