@@ -1,210 +1,3149 @@
 <?xml version="1.0" encoding="UTF-8"?>
+	
 <recipes>
-	<recipe category="weapons" job="carpenter">
-		<name>Earth Stick</name>
-		<quality>
-			<fine>
-				<level>3</level>
-				<skill>430</skill>
-				<materials>
-					<material>
-						<name>Earth Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Earth Log</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</fine>
-			<notable>
-				<level>3</level>
-				<skill>520</skill>
-				<materials>
-					<material>
-						<name>Earth Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Earth Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Earth Mana</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</notable>
-		</quality>
-	</recipe>
-	<recipe category="weapons" job="carpenter">
-		<name>Water Stick</name>
-		<quality>
-			<fine>
-				<level>3</level>
-				<skill>420</skill>
-				<materials>
-					<material>
-						<name>Water Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Water Log</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</fine>
-			<notable>
-				<level>3</level>
-				<skill>510</skill>
-				<materials>
-					<material>
-						<name>Water Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Water Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Water Mana</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</notable>
-		</quality>
-	</recipe>
-	<recipe category="weapons" job="carpenter">
-		<name>Wind Stick</name>
-		<quality>
-			<fine>
-				<level>3</level>
-				<skill>410</skill>
-				<materials>
-					<material>
-						<name>Wind Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Wind Log</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</fine>
-			<notable>
-				<level>3</level>
-				<skill>500</skill>
-				<materials>
-					<material>
-						<name>Wind Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Wind Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Wind Mana</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</notable>
-		</quality>
-	</recipe>
-	<recipe category="weapons" job="carpenter">
-		<name>Fire Stick</name>
-		<quality>
-			<fine>
-				<level>3</level>
-				<skill>400</skill>
-				<materials>
-					<material>
-						<name>Fire Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Fire Log</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</fine>
-			<notable>
-				<level>3</level>
-				<skill>490</skill>
-				<materials>
-					<material>
-						<name>Fire Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Fire Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Fire Mana</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</notable>
-		</quality>
-	</recipe>
-	<recipe category="weapons" job="carpenter">
-		<name>Cherry Stick</name>
-		<quality>
-			<fine>
-				<level>3</level>
-				<skill>220</skill>
-				<materials>
-					<material>
-						<name>Cherry Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Cherry Log</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</fine>
-			<notable>
-				<level>3</level>
-				<skill>260</skill>
-				<materials>
-					<material>
-						<name>Cherry Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Cherry Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Cherry Branch</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</notable>
-			<supreme>
-				<level>4</level>
-				<skill>310</skill>
-				<materials>
-					<material>
-						<name>Cherry Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Elder Cherry Log</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Cherry Branch</name>
-						<amount>1</amount>
-					</material>
-					<material>
-						<name>Cherry Nectar</name>
-						<amount>1</amount>
-					</material>
-				</materials>
-			</supreme>
-		</quality>
-	</recipe>
+  <recipe job="Carpenter" category="Weapons">
+    <name>Earth Stick</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>430</skill>
+        <materials>
+          <material>
+            <name>Earth Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Earth Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>520</skill>
+        <materials>
+          <material>
+            <name>Earth Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Earth Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Earth Mana</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  <recipe job="Carpenter" category="Weapons">
+    <name>Water Stick</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>420</skill>
+        <materials>
+          <material>
+            <name>Water Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Water Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>510</skill>
+        <materials>
+          <material>
+            <name>Water Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Water Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Water Mana</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  <recipe job="Carpenter" category="Weapons">
+    <name>Wind Stick</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>410</skill>
+        <materials>
+          <material>
+            <name>Wind Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Wind Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>500</skill>
+        <materials>
+          <material>
+            <name>Wind Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Wind Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wind Mana</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+
+  <recipe job="Carpenter" category="Weapons">
+    <name>Fire Stick</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Fire Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Fire Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>490</skill>
+        <materials>
+          <material>
+            <name>Fire Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Fire Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Fire Mana</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Cherry Stick</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Cherry Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Cherry Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Cherry Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Cherry Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Cherry Branch</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+      <Supreme>
+        <level>4</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Cherry Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Cherry Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Cherry Branch</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Cherry Nectar</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Supreme>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Tough Tree Branch</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Oak Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Oak Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Oak Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Antidote Berries</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Sage Staff</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>430</skill>
+        <materials>
+          <material>
+            <name>Earth Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>520</skill>
+        <materials>
+          <material>
+            <name>Earth Wood Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Earth Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Froggy Wand</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>420</skill>
+        <materials>
+          <material>
+            <name>Water Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>510</skill>
+        <materials>
+          <material>
+            <name>Water Wood Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Water Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Spooky Staff</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>410</skill>
+        <materials>
+          <material>
+            <name>Wind Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>500</skill>
+        <materials>
+          <material>
+            <name>Wind Wood Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Wind Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Red Dragon Staff</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Fire Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>490</skill>
+        <materials>
+          <material>
+            <name>Fire Wood Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Fire Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Cherry Staff</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Elder Cherry Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Fire Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Pine Staff</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Oak Staff</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Novice's Staff</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Leaf Bow</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>430</skill>
+        <materials>
+          <material>
+            <name>Earth Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>520</skill>
+        <materials>
+          <material>
+            <name>Earth Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Earth Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Crystal Bow</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>420</skill>
+        <materials>
+          <material>
+            <name>Water Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>510</skill>
+        <materials>
+          <material>
+            <name>Water Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Water Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Gale Bow</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>410</skill>
+        <materials>
+          <material>
+            <name>Wind Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>500</skill>
+        <materials>
+          <material>
+            <name>Wind Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Wind Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Blaze Bow</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Fire Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>490</skill>
+        <materials>
+          <material>
+            <name>Fire Wood Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Fire Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Cherry Bow</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Elder Cherry Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Pine Bow</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Oak Bow</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Weapons">
+    <name>Hunter's Bow</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Earth Claymore</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>430</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Earth Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>520</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Earth Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Water Claymore</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>420</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Water Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>510</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Water Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Wind Claymore</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>410</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Wind Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>500</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Wind Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Fire Claymore</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>490</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Silver Claymore</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Iron Claymore</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Bronze Claymore</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Novice's Claymore</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Leaf Saber</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>430</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Earth Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>520</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Earth Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Aqua Saber</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>420</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Water Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>510</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Water Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Gale Saber</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>410</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Wind Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>500</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Wind Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Flame Saber</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>490</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Silver Sword</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Iron Sword</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Bronze Sword</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Weapons">
+    <name>Squire's Sword</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Bronze Pickaxe</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Topaz</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Iron Pickaxe</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Aquamarine</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Silver Pickaxe</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Bronze Hoe</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Nearly Invisible Teardrop</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Bronze Frying Pan</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Little Tail</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Bronze Hammer</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Bronze Needle</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Iron Hoe</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Flaxen Hair</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Iron Frying Pan</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>280</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Quetzal Egg</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Iron Hammer</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>280</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Thick Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Iron Needle</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>280</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Claws</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Silver Hoe</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Silver Frying Pan</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Silver Hammer</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Life Tools">
+    <name>Silver Needle</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Oak Axe</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Oak Rod</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Plains Lordfish Moss</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Oak Saw</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Oak Brush</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Red Paint</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Pine Axe</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Pine Rod</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Forest Lordfish Moss</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Pine Saw</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>280</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Thick Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Pine Brush</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>280</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Cherry Axe</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Cherry Rod</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Cherry Saw</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Life Tools">
+    <name>Cherry Brush</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Cherry Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Shields">
+    <name>Paladin's Shield</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Turtle Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Turtle Shell</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Shields">
+    <name>Bronze Shield</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Turtle Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>1</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Turtle Shell</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Shields">
+    <name>Iron Shield</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>2</level>
+        <skill>310</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Blue Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Shields">
+    <name>Silver Shield</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>290</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+      <Fine>
+        <level>2</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Steel Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Shields">
+    <name>Blossom Buckler</name>
+    <versions>
+      <Fine>
+        <level>3</level>
+        <skill>410</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Steel Shell</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+      <Notable>
+        <level>3</level>
+        <skill>500</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Steel Shell</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Leather Cap</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>120</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Leather Jerkin</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Leather Leggings</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Leather Gauntlets</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>120</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Leather Boots</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>120</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Snakeskin Helm</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Snakeskin Mail</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>210</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Snakeskin Leggibngs</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>210</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Snakeskin Gloves</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Snakeskin Boots</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
 </recipes>
+  
