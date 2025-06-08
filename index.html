@@ -697,85 +697,100 @@
   
   function buildRecipeList(level){
     let recipes = xmlDoc.getElementsByTagName("recipe");
-    for(let i=0; i<recipes.length; i++){
-      let recipe = recipes[i];
+    const tableMap = new Map();
 
-      // get category attr
-      let tableId = recipe.getAttribute("job") + "-" + recipe.getAttribute("category") + "-recipes";
-      let table = document.getElementById(tableId);
-      if(table == null){
-        continue;
-      }
+      for(let i=0; i<recipes.length; i++){
+        let recipe = recipes[i];
 
-      // make new row
-      let tr = document.createElement('tr');
+        // get category attr
+        let tableId = recipe.getAttribute("job") + "-" + recipe.getAttribute("category") + "-recipes";
+        let table = document.getElementById(tableId.toLowerCase());
+        if(table == null)
+        {
+          continue;
+        }
+
+        if(tableMap.get(tableId) == null)
+        {
+          tableMap.set(tableId, 0);
+        }
+        else
+        {
+          tableMap.set(tableId, tableMap.get(tableId)+1);
+        }
+
+        // make new row
+        let tr = document.createElement('tr');
         
-      // name col
-      if(recipe.getElementsByTagName("name")[0] != null){
-        let name = recipe.getElementsByTagName("name")[0].firstChild.nodeValue;
-        let tdName = document.createElement('td');
-        tdName.textContent = name;
-        tr.appendChild(tdName);
-      }
-
-      // find quality level info
-      let levels = recipe.getElementsByTagName(level);
-      if(levels[0] != null) {
-        let levelInfo = levels[0];
-
-        // level col
-        if(levelInfo.getElementsByTagName("level")[0] != null) {
-          let lvl = levelInfo.getElementsByTagName("level")[0].firstChild.nodeValue;
-          let tdLvl = document.createElement('td');
-          tdLvl.textContent = lvl;
-          tr.appendChild(tdLvl);
+        // name col
+        if(recipe.getElementsByTagName("name")[0] != null)
+        {
+          let name = recipe.getElementsByTagName("name")[0].firstChild.nodeValue;
+          let tdName = document.createElement('td');
+          tdName.textContent = name;
+          tr.appendChild(tdName);
         }
 
-        // skill col
-        if(levelInfo.getElementsByTagName("skill")[0] != null) {
-          let skill = levelInfo.getElementsByTagName("skill")[0].firstChild.nodeValue;
-          let tdSkill = document.createElement('td');
-          tdSkill.textContent = skill;
-          tr.appendChild(tdSkill);
-        }
+        // find quality level info
+        let formattedLevel = level[0].toUpperCase() + level.slice(1);
+        let levels = recipe.getElementsByTagName(formattedLevel);
+        console.log(levels);
+        if(levels[0] != null) {
+          let levelInfo = levels[0];
 
-        // materials col
-        let materials = levelInfo.getElementsByTagName("material");
-        if(materials != null && materials.length > 0) {
-          let tdMats = document.createElement('td');
-          for(let j=0; j<materials.length; j++) {
-            // name
-            if(materials[j].getElementsByTagName("name")[0] != null){
-              tdMats.textContent += materials[j].getElementsByTagName("name")[0].firstChild.nodeValue;
-            }
-
-            if(materials[j].getElementsByTagName("amount")[0] != null){
-              tdMats.textContent += " x" + materials[j].getElementsByTagName("amount")[0].firstChild.nodeValue;
-            }
-
-            if(materials[j+1] != null){
-              tdMats.textContent += "\r\n";
-            }
+          // level col
+          if(levelInfo.getElementsByTagName("level")[0] != null) {
+            let lvl = levelInfo.getElementsByTagName("level")[0].firstChild.nodeValue;
+            let tdLvl = document.createElement('td');
+            tdLvl.textContent = lvl;
+            tr.appendChild(tdLvl);
           }
 
-          tr.appendChild(tdMats);
+          // skill col
+          if(levelInfo.getElementsByTagName("skill")[0] != null) {
+            let skill = levelInfo.getElementsByTagName("skill")[0].firstChild.nodeValue;
+            let tdSkill = document.createElement('td');
+            tdSkill.textContent = skill;
+            tr.appendChild(tdSkill);
+          }
+
+          // materials col
+          let materials = levelInfo.getElementsByTagName("material");
+          if(materials != null && materials.length > 0) {
+            let tdMats = document.createElement('td');
+            for(let j=0; j<materials.length; j++) {
+              // name
+              if(materials[j].getElementsByTagName("name")[0] != null){
+                tdMats.textContent += materials[j].getElementsByTagName("name")[0].firstChild.nodeValue;
+              }
+
+              if(materials[j].getElementsByTagName("amount")[0] != null){
+                tdMats.textContent += " x" + materials[j].getElementsByTagName("amount")[0].firstChild.nodeValue;
+              }
+
+              if(materials[j+1] != null){
+                tdMats.textContent += "\r\n";
+              }
+            }
+
+            tr.appendChild(tdMats);
+          }
+        }
+        else {
+          let tdMissing = document.createElement('td');
+          tdMissing.setAttribute("colspan", "3");
+          tdMissing.textContent = "No recipe data for this level";
+          tr.appendChild(tdMissing);
+        }
+
+        if(table.childNodes[tableMap.get(tableId)] != null){
+          table.replaceChild(tr, table.childNodes[tableMap.get(tableId)]);
+        }
+        else{
+          table.appendChild(tr);
         }
       }
-      else {
-        let tdMissing = document.createElement('td');
-        tdMissing.setAttribute("colspan", "3");
-        tdMissing.textContent = "No recipe data for this level";
-        tr.appendChild(tdMissing);
-      }
-
-      if(table.childNodes[i] != null){
-        table.replaceChild(tr, table.childNodes[i]);
-      }
-      else{
-        table.appendChild(tr);
-      }
     }
-  }
 </script>
 
 </body>
