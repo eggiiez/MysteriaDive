@@ -1,12 +1,13 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
   <link data-turbolinks-track="true" href="./assets/application.css" media="all" rel="stylesheet">
+  <script src="./assets/application.js"></script>
+  <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"> -->
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-  <style> td {white-space:pre; } </style>
 </head>
-  
+
 <body>
   <main style="position: relative;">
     <div class="container">
@@ -15,7 +16,7 @@
         <div class="col-md-8">
           <h2>Recipes</h2>
 
-          <!-- Level Select -->
+<!--           <!-- Level Select -->
           <div class="btn-group recipe-level-select" data-toggle="buttons">
             <label class="btn btn-primary active">
               <input type="radio" id="ordinary" name="recipe-level" onchange="levelChange(this);" value="ordinary" checked> Ordinary
@@ -29,7 +30,7 @@
             <label class="btn btn-primary">
               <input type="radio" id="supreme" name="recipe-level" onchange="levelChange(this);" value="supreme" checked> Supreme
             </label>
-          </div>
+          </div> -->
 
           <!-- Cook -->
           <div class="panel-group" id="cook-accordion">
@@ -82,12 +83,14 @@
                         <!-- Cook Materials -->
                         <div role="tabpanel" class="tab-pane active" id="cook-materials">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </thead>
                              <tbody id="cook-materials-recipes"></tbody>
                           </table>
                         </div>
@@ -95,12 +98,14 @@
                         <!-- Cook Weapons -->
                         <div role="tabpanel" class="tab-pane" id="cook-weapons">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="cook-weapons-recipes"></tbody>
                           </table>
                         </div>
@@ -108,12 +113,14 @@
                         <!-- Cook Tools -->
                         <div role="tabpanel" class="tab-pane" id="cook-tools">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="cook-tools-recipes"></tbody>
                           </table>
                         </div>
@@ -121,12 +128,14 @@
                         <!-- Cook Armour -->
                         <div role="tabpanel" class="tab-pane" id="cook-armour">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="cook-armour-recipes"></tbody>
                           </table>
                         </div>
@@ -134,12 +143,14 @@
                         <!-- Cook Objects -->
                         <div role="tabpanel" class="tab-pane" id="cook-objects">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="cook-objects-recipes"></tbody>
                           </table>
                         </div>
@@ -209,12 +220,14 @@
                         <!-- Blacksmith Materials -->
                         <div role="tabpanel" class="tab-pane active" id="blacksmith-materials">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="blacksmith-materials-recipes"></tbody>
                           </table>
                         </div>
@@ -222,12 +235,15 @@
                         <!-- Blacksmith Weapons -->
                         <div role="tabpanel" class="tab-pane" id="blacksmith-weapons">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                                <th>Quality</th>
+                              </tr>
+                            </thead>
                              <tbody id="blacksmith-weapons-recipes"></tbody>
                           </table>
                         </div>
@@ -235,12 +251,14 @@
                         <!-- Blacksmith Tools -->
                         <div role="tabpanel" class="tab-pane" id="blacksmith-tools">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="blacksmith-tools-recipes"></tbody>
                           </table>
                         </div>
@@ -248,12 +266,14 @@
                         <!-- Blacksmith Armour -->
                         <div role="tabpanel" class="tab-pane" id="blacksmith-armour">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="blacksmith-armour-recipes"></tbody>
                           </table>
                         </div>
@@ -261,12 +281,14 @@
                         <!-- Blacksmith Shields -->
                         <div role="tabpanel" class="tab-pane" id="blacksmith-shields">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="blacksmith-shields-recipes"></tbody>
                           </table>
                         </div>
@@ -274,12 +296,14 @@
                         <!-- Blacksmith Objects -->
                         <div role="tabpanel" class="tab-pane" id="blacksmith-objects">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="blacksmith-objects-recipes"></tbody>
                           </table>
                         </div>
@@ -344,12 +368,14 @@
                         <!-- Carpenter Materials -->
                         <div role="tabpanel" class="tab-pane active" id="carpenter-materials">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="carpenter-materials-recipes"></tbody>
                           </table>
                         </div>
@@ -357,12 +383,14 @@
                         <!-- Carpenter Weapons -->
                         <div role="tabpanel" class="tab-pane" id="carpenter-weapons">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="carpenter-weapons-recipes"></tbody>
                           </table>
                         </div>
@@ -370,12 +398,14 @@
                         <!-- Carpenter Tools -->
                         <div role="tabpanel" class="tab-pane" id="carpenter-tools">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="carpenter-tools-recipes"></tbody>
                           </table>
                         </div>
@@ -383,12 +413,14 @@
                         <!-- Carpenter Armour -->
                         <div role="tabpanel" class="tab-pane" id="carpenter-armour">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="carpenter-armour-recipes"></tbody>
                           </table>
                         </div>
@@ -396,12 +428,14 @@
                         <!-- Carpenter Objects -->
                         <div role="tabpanel" class="tab-pane" id="carpenter-objects">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="carpenter-objects-recipes"></tbody>
                           </table>
                         </div>
@@ -466,12 +500,14 @@
                         <!-- Tailor Materials -->
                         <div role="tabpanel" class="tab-pane active" id="tailor-materials">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="tailor-materials-recipes"></tbody>
                           </table>
                         </div>
@@ -479,12 +515,14 @@
                         <!-- Tailor Weapons -->
                         <div role="tabpanel" class="tab-pane" id="tailor-weapons">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="tailor-weapons-recipes"></tbody>
                           </table>
                         </div>
@@ -492,12 +530,14 @@
                         <!-- Tailor Tools -->
                         <div role="tabpanel" class="tab-pane" id="tailor-tools">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="tailor-tools-recipes"></tbody>
                           </table>
                         </div>
@@ -505,12 +545,14 @@
                         <!-- Tailor Armour -->
                         <div role="tabpanel" class="tab-pane" id="tailor-armour">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="tailor-armour-recipes"></tbody>
                           </table>
                         </div>
@@ -518,12 +560,14 @@
                         <!-- Tailor Objects -->
                         <div role="tabpanel" class="tab-pane" id="tailor-objects">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="tailor-objects-recipes"></tbody>
                           </table>
                         </div>
@@ -588,12 +632,14 @@
                         <!-- Alchemist Materials -->
                         <div role="tabpanel" class="tab-pane active" id="alchemist-materials">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="alchemist-materials-recipes"></tbody>
                           </table>
                         </div>
@@ -601,12 +647,14 @@
                         <!-- Alchemist Weapons -->
                         <div role="tabpanel" class="tab-pane" id="alchemist-weapons">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="alchemist-weapons-recipes"></tbody>
                           </table>
                         </div>
@@ -614,12 +662,14 @@
                         <!-- Alchemist Tools -->
                         <div role="tabpanel" class="tab-pane" id="alchemist-tools">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="alchemist-tools-recipes"></tbody>
                           </table>
                         </div>
@@ -627,12 +677,14 @@
                         <!-- Alchemist Armour -->
                         <div role="tabpanel" class="tab-pane" id="alchemist-armour">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="alchemist-armour-recipes"></tbody>
                           </table>
                         </div>
@@ -640,12 +692,14 @@
                         <!-- Alchemist Objects -->
                         <div role="tabpanel" class="tab-pane" id="alchemist-objects">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="alchemist-objects-recipes"></tbody>
                           </table>
                         </div>
@@ -710,12 +764,14 @@
                         <!-- Artist Materials -->
                         <div role="tabpanel" class="tab-pane active" id="artist-materials">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="artist-materials-recipes"></tbody>
                           </table>
                         </div>
@@ -723,12 +779,14 @@
                         <!-- Artist Weapons -->
                         <div role="tabpanel" class="tab-pane" id="artist-weapons">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="artist-weapons-recipes"></tbody>
                           </table>
                         </div>
@@ -736,12 +794,14 @@
                         <!-- Artist Tools -->
                         <div role="tabpanel" class="tab-pane" id="artist-tools">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="artist-tools-recipes"></tbody>
                           </table>
                         </div>
@@ -749,12 +809,14 @@
                         <!-- Artist Armour -->
                         <div role="tabpanel" class="tab-pane" id="artist-armour">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="artist-armour-recipes"></tbody>
                           </table>
                         </div>
@@ -762,12 +824,14 @@
                         <!-- Artist Objects -->
                         <div role="tabpanel" class="tab-pane" id="artist-objects">
                           <table class="table table-hover">
-                            <tr>
-                              <th>Name</th>
-                              <th>Level</th>
-                              <th>Recommended Skill</th>
-                              <th>Materials</th>
-                            </tr>
+                            <thead>
+                              <tr>
+                                <th>Name</th>
+                                <th>Level</th>
+                                <th>Recommended Skill</th>
+                                <th>Materials</th>
+                              </tr>
+                            </table>
                              <tbody id="artist-objects-recipes"></tbody>
                           </table>
                         </div>
@@ -785,124 +849,5 @@
       </div> <!-- row -->
     </div> <!-- container -->
   </main>
-
-<script>
-  var xmlDoc;
-  document.addEventListener('DOMContentLoaded', ()=>{
-    let url = "recipes.xml";
-    fetch(url)
-    .then(response=>response.text())
-    .then(data=>{
-      // console.log(data);
-      let parser = new DOMParser();
-      let xml = parser.parseFromString(data, "text/xml");
-      //console.log(xml);
-      xmlDoc = xml;
-      buildRecipeList("ordinary");
-    });
-  })
-
-  function levelChange(src){
-    buildRecipeList(src.value);
-  }
-  
-  function buildRecipeList(level){
-    let recipes = xmlDoc.getElementsByTagName("recipe");
-    const tableMap = new Map();
-
-      for(let i=0; i<recipes.length; i++){
-        let recipe = recipes[i];
-
-        // get category attr
-        let tableId = recipe.getAttribute("job") + "-" + recipe.getAttribute("category") + "-recipes";
-        let table = document.getElementById(tableId.toLowerCase());
-        if(table == null)
-        {
-          continue;
-        }
-
-        if(tableMap.get(tableId) == null)
-        {
-          tableMap.set(tableId, 0);
-        }
-        else
-        {
-          tableMap.set(tableId, tableMap.get(tableId)+1);
-        }
-
-        // make new row
-        let tr = document.createElement('tr');
-        
-        // name col
-        if(recipe.getElementsByTagName("name")[0] != null)
-        {
-          let name = recipe.getElementsByTagName("name")[0].firstChild.nodeValue;
-          let tdName = document.createElement('td');
-          tdName.textContent = name;
-          tr.appendChild(tdName);
-        }
-
-        // find quality level info
-        let formattedLevel = level[0].toUpperCase() + level.slice(1);
-        let levels = recipe.getElementsByTagName(formattedLevel);
-        //console.log(levels);
-        if(levels[0] != null) {
-          let levelInfo = levels[0];
-
-          // level col
-          if(levelInfo.getElementsByTagName("level")[0] != null) {
-            let lvl = levelInfo.getElementsByTagName("level")[0].firstChild.nodeValue;
-            let tdLvl = document.createElement('td');
-            tdLvl.textContent = lvl;
-            tr.appendChild(tdLvl);
-          }
-
-          // skill col
-          if(levelInfo.getElementsByTagName("skill")[0] != null) {
-            let skill = levelInfo.getElementsByTagName("skill")[0].firstChild.nodeValue;
-            let tdSkill = document.createElement('td');
-            tdSkill.textContent = skill;
-            tr.appendChild(tdSkill);
-          }
-
-          // materials col
-          let materials = levelInfo.getElementsByTagName("material");
-          if(materials != null && materials.length > 0) {
-            let tdMats = document.createElement('td');
-            for(let j=0; j<materials.length; j++) {
-              // name
-              if(materials[j].getElementsByTagName("name")[0] != null){
-                tdMats.textContent += materials[j].getElementsByTagName("name")[0].firstChild.nodeValue;
-              }
-
-              if(materials[j].getElementsByTagName("amount")[0] != null){
-                tdMats.textContent += " x" + materials[j].getElementsByTagName("amount")[0].firstChild.nodeValue;
-              }
-
-              if(materials[j+1] != null){
-                tdMats.textContent += "\r\n";
-              }
-            }
-
-            tr.appendChild(tdMats);
-          }
-        }
-        else {
-          let tdMissing = document.createElement('td');
-          tdMissing.setAttribute("colspan", "3");
-          tdMissing.textContent = "No recipe data for this level";
-          tr.appendChild(tdMissing);
-        }
-
-        if(table.childNodes[tableMap.get(tableId)] != null){
-          table.replaceChild(tr, table.childNodes[tableMap.get(tableId)]);
-        }
-        else{
-          table.appendChild(tr);
-        }
-      }
-    }
-</script>
-
 </body>
 </html>
