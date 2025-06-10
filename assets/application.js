@@ -91,7 +91,7 @@ function buildRecipeList() {
 
     // find quality level info
     let levelsContainer = recipe.getElementsByTagName("versions")[0];
-    let allLevels = levelsContainer.childNodes;
+    let allLevels = levelsContainer.children;
     let selectedLevel = allLevels[0];
 
     if(selectedLevel != null) {
