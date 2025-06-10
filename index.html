@@ -796,7 +796,7 @@
       // console.log(data);
       let parser = new DOMParser();
       let xml = parser.parseFromString(data, "text/xml");
-      console.log(xml);
+      //console.log(xml);
       xmlDoc = xml;
       buildRecipeList("ordinary");
     });
@@ -845,7 +845,7 @@
         // find quality level info
         let formattedLevel = level[0].toUpperCase() + level.slice(1);
         let levels = recipe.getElementsByTagName(formattedLevel);
-        console.log(levels);
+        //console.log(levels);
         if(levels[0] != null) {
           let levelInfo = levels[0];
 
