@@ -3145,5 +3145,3912 @@
     </versions>
   </recipe>
   
-</recipes>
+  <recipe job="Blacksmith" category="Armour">
+    <name>Iron Helm</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
   
+  <recipe job="Blacksmith" category="Armour">
+    <name>Iron Cuirass</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Cashmere</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Iron Greaves</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Cashmere</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Iron Gauntlets</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Iron Boots</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Cashmere</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Merfolk Helm</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>335</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Fish Scales</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Little Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Merfolk Mail</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Fish Scales</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Steel Shell</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Merfolk Leggings</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Fish Scales</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Durable Shell</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Merfolk Gloves</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>335</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Fish Scales</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Little Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Merfolk Boots</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>335</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Fish Scales</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Little Shell</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Rugged Cap</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>355</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Claws</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Rugged Jerkin</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>375</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Hard Claws</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Rugged Leggings</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>375</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Hard Claws</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Rugged Gauntlets</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>355</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Claws</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Rugged Boots</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>355</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Claws</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Paladin's Helm</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Paladin's Cuirass</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Fang</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Paladin's Sandals</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Legionary Helmet</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Coal-Black Feather</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Thick Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Legionary Armor</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Coal-Black Feather</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Giant Fang</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Flare Cashmere</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Legionary Sandals</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Coal-Black Feather</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Thick Fang</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Miner's Helmet</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Miner's Clothes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Miner's Shoes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Ancient Mech Helm</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Ancient Mech Apron</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Smoldering Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Ancient Mech Gloves</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Ancient Mech Boots</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Sawyer's Helmet</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Durable Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Sawyer's Outfit</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Valuable Shell</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Sawyer's Gloves</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Durable Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Armour">
+    <name>Sawyer's Sandals</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Durable Shell</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Explorer's Hat</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Explorer's Clothes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>105</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Explorer's Shoes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Explorer's Backpack</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Hood</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>120</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Bolero</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Pants</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Shoes</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>120</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Leather String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Coastal Headwear</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Linen</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Coastal Brigandine</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>210</skill>
+        <materials>
+          <material>
+            <name>Linen</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Coastal Bottoms</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>210</skill>
+        <materials>
+          <material>
+            <name>Linen</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Coastal Gloves</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Linen</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Coastal Boots</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Linen</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Snake Scales</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Dancer's Veil</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>295</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Quetzal Treasure</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Dancer's Garb</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>315</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Brilliant Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Dancer's Bangles</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>295</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Dancer's Shoes</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>295</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Flame Hood</name>
+    <versions>
+      <Supreme>
+        <level>4</level>
+        <skill>315</skill>
+        <materials>
+          <material>
+            <name>Flare Cashmere</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Supreme>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Flame Robe</name>
+    <versions>
+      <Supreme>
+        <level>4</level>
+        <skill>295</skill>
+        <materials>
+          <material>
+            <name>Flare Cashmere</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Supreme>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Mercenary's Headwrap</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Fire Shard</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Mercenary's Top</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Mercenary's Trunks</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Mercenary's Gloves</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Mercenary's Sandals</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Mercenary's Scarf</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Beast Cap</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Monster Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Strong Fang</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Black Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Beast Clothes</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Monster Hide</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Coal-Black Feather</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Big Tail</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Beast Gloves</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Monster Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Black Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Beast Sandals</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Monster Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Black Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Headress</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Vest</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Trunks</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Glove</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Hunter's Sandals</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Marksman's Headdress</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Glossy Feather</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Brilliant Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Marksman's Vest</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Glossy Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Marksman's Pants</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Glossy Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Marksman's Glove</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Glossy Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Marksman's Sandals</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Beast Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Glossy Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Magician's Headwrap</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Magician's Robe</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Magician's Shoes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Woodcutter's Cap</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Woodcutter's Clothes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Woodcutter's Gloves</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Leather String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Woodcutter's Shoes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Leather String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Blacksmith's Bandana</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Blacksmith's Apron</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Blacksmith's Gloves</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Blacksmith's Shoes</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Leather String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Carpenter's Bandana</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Little Tail</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Carpenter's Top</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Fang</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Carpenter's Pants</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Carpenter's Gloves</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Leather String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Carpenter's Sandals</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Black Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Tailor's Cap</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Tailor's Top</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Tailor's Smock</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Tailor's Sandals</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Leather String</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Fluffy Hat</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Cute Ribbon</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wooden Buttons</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Fluffy Clothes</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Fluffy Ribbon</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Wooden Buttons</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Fluffy Shoes</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Cashmere</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Sunny Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Armour">
+    <name>Legionary Cape</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>380</skill>
+        <materials>
+          <material>
+            <name>Flare Cashmere</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Silver Ingot</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Bountiful Harvest Box</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Smiley Pumpkin</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Pumpkin</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Star Apple</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Mystfruit</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Corn Drying Rack</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>175</skill>
+        <materials>
+          <material>
+            <name>Sweetcorn</name>
+            <amount>6</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Straw Thread</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Basket of Corn</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Sweetcorn</name>
+            <amount>5</amount>
+          </material>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Straw Thread</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Hearth With Corn</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Sweetcorn</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Bountiful Harvest Rack</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Carrot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Pumpkin</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Potato</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Onion</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Pile of Corn</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Sweetcorn</name>
+            <amount>6</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Wheat Juice on Tap</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Wheat Juice</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Plate of Roasted Corn</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Sweetcorn</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Cook" category="Objects">
+    <name>Corn Reserve</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Sweetcorn</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Straw Thread</name>
+            <amount>4</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Objects">
+    <name>Stove</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>235</skill>
+        <materials>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Log</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Minty Ore</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Objects">
+    <name>Stone Oven</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>460</skill>
+        <materials>
+          <material>
+            <name>Quality Minty Ore</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Sandstone</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Bed</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Dandelion Puff</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Sofa</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Table</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Low Table</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>135</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Palm Nuts</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Chair</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Palm Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Dresser</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Chest</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>130</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Cabinet</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Elder Oak Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Elder Palm Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Regal Bed</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>250</skill>
+        <materials>
+          <material>
+            <name>Haniwa Stone</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Dandelion Puff</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Regal Sofa</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Haniwa Stone</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Regal Table</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Haniwa Stone</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Regal Low Table</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>210</skill>
+        <materials>
+          <material>
+            <name>Haniwa Stone</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Regal Chair</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Haniwa Stone</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Regal Chest</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Haniwa Stone</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Bed</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>335</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Sofa</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>280</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Dining Table</name>
+    <versions>
+      <Ordinary>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Low Table</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Pine Log</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Chair</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>360</skill>
+        <materials>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Wardrobe</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>400</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Cabinet</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>275</skill>
+        <materials>
+          <material>
+            <name>Elder Pine Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Stone Bench</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>120</skill>
+        <materials>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Wooden Bench</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Bamboo Bench</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>205</skill>
+        <materials>
+          <material>
+            <name>Pine Log</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Palm Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Tropical Wooden Desk</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>165</skill>
+        <materials>
+          <material>
+            <name>Palm Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Elder Palm Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Egg Shelf</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>180</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Chicken Eggs</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Grand Standing Torch</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>175</skill>
+        <materials>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Minty Ore</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Wheelbarrow</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>340</skill>
+        <materials>
+          <material>
+            <name>Sugar Lumber</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Iron Ingot</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Yellow Stone</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Blue Stone</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Purple Stone</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Spinning Wheel</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silk Thread</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Taiko Drum</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>215</skill>
+        <materials>
+          <material>
+            <name>Pine Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>String</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Animal Hide</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Antique Abacus</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>230</skill>
+        <materials>
+          <material>
+            <name>Elder Desert Log</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Desert Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Decorative Curtain</name>
+    <versions>
+      <Supreme>
+        <level>4</level>
+        <skill>355</skill>
+        <materials>
+          <material>
+            <name>Starry Lumber</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Silk</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Supreme>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Objects">
+    <name>Forest Fence</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Palm Log</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Tropical Rug</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Linen</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Tropical Mat</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>105</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Regal Rug</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>135</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Black Wool</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Royal Capital Mat</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Wool</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Red Anthurium</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Leaf Mat</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>220</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Silk Thread</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Yarn Ball</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Dandelion Puff</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Straw Thread</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Antique Tropical Mat</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>3</amount>
+          </material>
+          <material>
+            <name>Blue Anthurium</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Tropical Flower Mat</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Blue Anthurium</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Antidote Berries</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Big Leaf Rug</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Radishy Leaf</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Objects">
+    <name>Blue Tapestry</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>160</skill>
+        <materials>
+          <material>
+            <name>Woven Straw Fabric</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Blue Anthurium</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Tropical Flower Pot</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>105</skill>
+        <materials>
+          <material>
+            <name>Red Anthurium</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Leaning Slab</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>125</skill>
+        <materials>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Stacked Stone Slabs</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>140</skill>
+        <materials>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Copper Candlestick</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Evening Glory</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Candle</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Birdy Helmet</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>175</skill>
+        <materials>
+          <material>
+            <name>Red Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Quetzal Treasure</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Birdy Armor Set</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>175</skill>
+        <materials>
+          <material>
+            <name>Red Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Bronze Ingot</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Brilliant Feather</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Tropical Flower Wreath</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>210</skill>
+        <materials>
+          <material>
+            <name>Red Anthurium</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Blue Anthurium</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Yellow Anthurium</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Royal Capital Floor</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>490</skill>
+        <materials>
+          <material>
+            <name>Blue Paint</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>4</amount>
+          </material>
+          <material>
+            <name>Good Mysteria Masonry</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Sandstone</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Stone Torch</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>150</skill>
+        <materials>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Red Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Mysteria Masonry</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Artist" category="Objects">
+    <name>Eternia Windmill</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>155</skill>
+        <materials>
+          <material>
+            <name>Blue Paint</name>
+            <amount>1</amount>
+          </material>
+          <material>
+            <name>Dandelion Cotton</name>
+            <amount>2</amount>
+          </material>
+          <material>
+            <name>Oak Lumber</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Materials">
+    <name>Bronze Ingot</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Mysteria Copper</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Materials">
+    <name>Iron Ingot</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Faraway Iron</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Materials">
+    <name>Silver Ingot</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Tropica Silver</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Blacksmith" category="Materials">
+    <name>Marine Ingot</name>
+    <versions>
+      <Supreme>
+        <level>4</level>
+        <skill>275</skill>
+        <materials>
+          <material>
+            <name>Marine Ore</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Supreme>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Oak Lumber</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Oak Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Palm Lumber</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>105</skill>
+        <materials>
+          <material>
+            <name>Palm Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Desert Lumber</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Desert Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Fire Wood Lumber</name>
+    <versions>
+      <Notable>
+        <level>2</level>
+        <skill>170</skill>
+        <materials>
+          <material>
+            <name>Fire Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Pine Lumber</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Pine Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Cherry Lumber</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>195</skill>
+        <materials>
+          <material>
+            <name>Cherry Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Carpenter" category="Materials">
+    <name>Sugar Lumber</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Sugar Log</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Woven Straw Fabric</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>100</skill>
+        <materials>
+          <material>
+            <name>Straw Thread</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Dandelion Cotton</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>105</skill>
+        <materials>
+          <material>
+            <name>Dandelion Puff</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Wool</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Sheep Fleece</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Black Wool</name>
+    <versions>
+      <Ordinary>
+        <level>1</level>
+        <skill>110</skill>
+        <materials>
+          <material>
+            <name>Black Sheep Fleece</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Ordinary>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Silk</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>190</skill>
+        <materials>
+          <material>
+            <name>Silk Thread</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Cashmere</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>195</skill>
+        <materials>
+          <material>
+            <name>Goat Fleece</name>
+            <amount>2</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Linen</name>
+    <versions>
+      <Fine>
+        <level>2</level>
+        <skill>200</skill>
+        <materials>
+          <material>
+            <name>Flax Thread</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Fine>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Flare Cashmere</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>240</skill>
+        <materials>
+          <material>
+            <name>Golden Goat Fleece</name>
+            <amount>1</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+  <recipe job="Tailor" category="Materials">
+    <name>Sunny Cotton</name>
+    <versions>
+      <Notable>
+        <level>3</level>
+        <skill>260</skill>
+        <materials>
+          <material>
+            <name>Sunny Puff</name>
+            <amount>3</amount>
+          </material>
+        </materials>
+      </Notable>
+    </versions>
+  </recipe>
+  
+</recipes>
