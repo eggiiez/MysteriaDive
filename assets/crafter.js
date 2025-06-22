@@ -5,8 +5,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     fetch(recipesUrl)
     .then(response=>response.json())
     .then(data=>{
-      const parsedRecipes = JSON.parse(data);
-      recipeData = parsedRecipes.m_dataMap;
+      recipeData = data.m_dataMap;
       console.log(recipeData); // temp: confirming data is valid.
     });
 
@@ -14,8 +13,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
     fetch(namesUrl)
     .then(response=>response.json())
     .then(data=>{
-      const parsedNames = JSON.parse(data);
-      namesData = parsedNames.m_dataMap;
+      namesData = data.m_dataMap;
       console.log(namesData);
     });
   })
