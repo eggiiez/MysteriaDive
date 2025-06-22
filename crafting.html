@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MysteriaDive</title>
+  <link data-turbolinks-track="true" href="./assets/application.css" media="all" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4Q6Gf2aSP4eDXB8Miphtr37CMZZQ5oXLH2yaXMJ2w8e2ZtHTl7GptT4jmndRuHDT" crossorigin="anonymous">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="./index.html">MysteriaDive</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-link" href="./recipes.html">Recipes</a>
+          <a class="nav-link" href="./gatherer.html">Gatherer</a>
+          <a class="nav-link active" href="#">Crafting</a>
+        </div>
+        <div class="navbar-nav">
+          <a class="nav-link" href="./xmlgen.html">XML Generator</a>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <main style="position: relative;">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-12">
+          <br>
+          <h2>Crafting Planner</h2>
+
+          <button class="btn btn-outline-secondary" data-bs-toggle="modal" data-bs-target="#add-item-modal">
+            Add an item
+          </button>
+
+          <div class="mt-2"></div>
+
+          <div class="accordion" id="gathering-accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#gathering-items-list" aria-expanded="false" aria-controls="gathering-items-list">Gathering</button>
+              </h2>
+              <div id="gathering-items-list" class="accordion-collapse collapse" data-bs-parent="gathering-accordion">
+                <div class="accordion-body" id="gathering-items-body">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mt-2"></div>
+
+          <div class="accordion" id="pre-craft-accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#precraft-items-list" aria-expanded="false" aria-controls="precraft-items-list">Pre-crafts</button>
+              </h2>
+              <div id="precraft-items-list" class="accordion-collapse collapse" data-bs-parent="pre-craft-accordion">
+                <div class="accordion-body" id="precraft-items-body">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="mt-2"></div>
+
+          <div class="accordion" id="final-items-accordion">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#final-items-list" aria-expanded="false" aria-controls="final-items-list">Items</button>
+              </h2>
+              <div id="final-items-list" class="accordion-collapse collapse" data-bs-parent="#final-items-accordion">
+                <div class="accordion-body" id="final-items-body">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="modal fade" id="add-item-modal" tabindex="-1" aria-labelledby="add-item-modal-label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="add-item-modal-label">Pick an item</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="row">
+                    <span>
+                      <input id="item-search-input" type="text" placeholder="Item name" onkeydown="updateSearch(event)">
+                    </span>
+                  </div>
+                  <form class="overflow-auto" id="search-results-form" style="padding-top:15px; min-height: 150px; max-height: 300px;">
+
+                  </form>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-outline-secondary" id="add-selected-items-btn" data-bs-dismiss="modal" disabled>Add Selected Items</button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="modal fade" id="change-amount-modal" tabindex="-1" aria-labelledby="change-amount-modal-label" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h1 class="modal-title fs-5" id="change-amount-modal-label">Edit amount</h1>
+                  <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                  <div class="input-group mb-3">
+                    <input type="number" class="form-control" value="1" aria-label="change-amount-input" id="change-amount-input">
+                    <button class="btn btn-outline-secondary" type="button" id="change-amount-btn" data-bs-dismiss="modal">Submit</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="offcanvas offcanvas-start" tabindex="-1" id="item-info-offcanvas" aria-labelledby="item-info-label">
+            <div class="offcanvas-header">
+              <h5 class="offcanvas-title" id="item-info-label">Item Name...</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+          </div>
+          
+        </div>
+      </div>
+    </div>
+  </main>
+
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/js/bootstrap.bundle.min.js" integrity="sha384-ndDqU0Gzau9qJ1lfW4pNLlhNTkCfHzAVBReH9diLvGRem5+R9g2FzA8ZGN954O5Q" crossorigin="anonymous"></script>
+</body>
+</html>
