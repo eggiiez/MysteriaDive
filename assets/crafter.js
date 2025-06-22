@@ -3,7 +3,7 @@ let recipeData, namesData;
 document.addEventListener('DOMContentLoaded', ()=>{
     const recipesUrl = "./assets/GDSRecipeData.json";
     fetch(recipesUrl)
-    .then(response=>response.text())
+    .then(response=>response.json())
     .then(data=>{
       const parsedRecipes = JSON.parse(data);
       recipeData = parsedRecipes.m_dataMap;
@@ -12,7 +12,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
 
     const namesUrl = "./assets/GDSItemText_Noun.json";
     fetch(namesUrl)
-    .then(response=>response.text())
+    .then(response=>response.json())
     .then(data=>{
       const parsedNames = JSON.parse(data);
       namesData = parsedNames.m_dataMap;
