@@ -1,7 +1,7 @@
 let recipeData, namesData;
 
 document.addEventListener('DOMContentLoaded', ()=>{
-    const recipesUrl = "./GDSRecipeData.json";
+    const recipesUrl = "./assets/GDSRecipeData.json";
     fetch(recipesUrl)
     .then(response=>response.text())
     .then(data=>{
@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
       console.log(recipeData); // temp: confirming data is valid.
     });
 
-    const namesUrl = "./GDSItemText_Noun.json";
+    const namesUrl = "./assets/GDSItemText_Noun.json";
     fetch(namesUrl)
     .then(response=>response.text())
     .then(data=>{
