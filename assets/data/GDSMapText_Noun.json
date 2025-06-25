@@ -1,0 +1,2218 @@
+[
+  {
+    "Properties": {
+      "m_dataMap": [
+        {
+          "Key": "name_Islanad_default",
+          "Value": {
+            "ID": "name_Islanad_default",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Mysteria"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000100_000",
+          "Value": {
+            "ID": "name_Map_000100_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Base Camp"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000101_000",
+          "Value": {
+            "ID": "name_Map_000101_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths Entrance"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_labyrinthtree_000",
+          "Value": {
+            "ID": "name_labyrinthtree_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Treasure Grove"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_BossRoom_000",
+          "Value": {
+            "ID": "name_BossRoom_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Warren Willow of Devildom"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000100_guild",
+          "Value": {
+            "ID": "name_Map_000100_guild",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_goddess_statue",
+          "Value": {
+            "ID": "name_goddess_statue",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Goddess Statue"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000200_000",
+          "Value": {
+            "ID": "name_Map_000200_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B1 Entrance"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000201_000",
+          "Value": {
+            "ID": "name_Map_000201_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Hover Platform – B1"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000201_001",
+          "Value": {
+            "ID": "name_Map_000201_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Hidden Room"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000202_000",
+          "Value": {
+            "ID": "name_Map_000202_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B1"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000210_000",
+          "Value": {
+            "ID": "name_Map_000210_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B2 Hall"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000211_000",
+          "Value": {
+            "ID": "name_Map_000211_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Hover Platform – B2"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000212_000",
+          "Value": {
+            "ID": "name_Map_000212_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B2"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000220_000",
+          "Value": {
+            "ID": "name_Map_000220_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B3 Hall"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000221_000",
+          "Value": {
+            "ID": "name_Map_000221_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Hover Platform – B3"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000222_000",
+          "Value": {
+            "ID": "name_Map_000222_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B3"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000230_000",
+          "Value": {
+            "ID": "name_Map_000230_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Hover Platform – B4"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_000235_000",
+          "Value": {
+            "ID": "name_Map_000235_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths – B4 Gear Hall"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_000",
+          "Value": {
+            "ID": "name_Map_100100_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tunoco Coast"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_Room_ff",
+          "Value": {
+            "ID": "name_Map_100100_Room_ff",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Novice Miner's Pit"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_room_fe",
+          "Value": {
+            "ID": "name_Map_100100_room_fe",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Mira's Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_000",
+          "Value": {
+            "ID": "name_Map_100101_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Capital of Mysteria"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100102_000",
+          "Value": {
+            "ID": "name_Map_100102_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Banaan Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100103_000",
+          "Value": {
+            "ID": "name_Map_100103_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Warren Willow Hollow"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100103_001",
+          "Value": {
+            "ID": "name_Map_100103_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Warren Willow Hollow B1"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_room_00",
+          "Value": {
+            "ID": "name_Map_100101_room_00",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Quetzal Nest"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100300_000",
+          "Value": {
+            "ID": "name_Map_100300_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Faraway Island"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100301_000",
+          "Value": {
+            "ID": "name_Map_100301_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Lulab Forest"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100303_000",
+          "Value": {
+            "ID": "name_Map_100303_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Spirit Road"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100310_000",
+          "Value": {
+            "ID": "name_Map_100310_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Elder Tree"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100400_000",
+          "Value": {
+            "ID": "name_Map_100400_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tropica Isles"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100401_000",
+          "Value": {
+            "ID": "name_Map_100401_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Yohoho Cavern"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100401_001",
+          "Value": {
+            "ID": "name_Map_100401_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cove of Time"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100403_000",
+          "Value": {
+            "ID": "name_Map_100403_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Profunda Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100404_000",
+          "Value": {
+            "ID": "name_Map_100404_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Da Finci Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100404_001",
+          "Value": {
+            "ID": "name_Map_100404_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Da Finci Cave B1"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100404_002",
+          "Value": {
+            "ID": "name_Map_100404_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Da Finci Cave B2"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100500_000",
+          "Value": {
+            "ID": "name_Map_100500_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Swolean Island"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100501_000",
+          "Value": {
+            "ID": "name_Map_100501_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Swolean Colosseum"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100502_000",
+          "Value": {
+            "ID": "name_Map_100502_000",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cave of Trials"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100502_001",
+          "Value": {
+            "ID": "name_Map_100502_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cave of Trials B1"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100502_002",
+          "Value": {
+            "ID": "name_Map_100502_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cave of Trials B2"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100502_003",
+          "Value": {
+            "ID": "name_Map_100502_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cave of Trials B3"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100502_004",
+          "Value": {
+            "ID": "name_Map_100502_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cave of Trials B4"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_001",
+          "Value": {
+            "ID": "name_Map_100100_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Armory"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_002",
+          "Value": {
+            "ID": "name_Map_100100_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Guild Office"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_003",
+          "Value": {
+            "ID": "name_Map_100100_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "General Goods"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_004",
+          "Value": {
+            "ID": "name_Map_100100_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cook's Guild and Restaurant"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_005",
+          "Value": {
+            "ID": "name_Map_100100_005",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Auntie Anne's House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_006",
+          "Value": {
+            "ID": "name_Map_100100_006",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Woodcutter's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_007",
+          "Value": {
+            "ID": "name_Map_100100_007",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Angler's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_008",
+          "Value": {
+            "ID": "name_Map_100100_008",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Blacksmith's Guild and Shop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_009",
+          "Value": {
+            "ID": "name_Map_100100_009",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Alchemist's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_010",
+          "Value": {
+            "ID": "name_Map_100100_010",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Miner's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_011",
+          "Value": {
+            "ID": "name_Map_100100_011",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tailor's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_012",
+          "Value": {
+            "ID": "name_Map_100100_012",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Mercenary's Guild and Inn"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_013",
+          "Value": {
+            "ID": "name_Map_100100_013",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Hunter's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_014",
+          "Value": {
+            "ID": "name_Map_100100_014",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Magician's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_015",
+          "Value": {
+            "ID": "name_Map_100100_015",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Guild Office & Paladin's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_016",
+          "Value": {
+            "ID": "name_Map_100100_016",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Carpenter's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_017",
+          "Value": {
+            "ID": "name_Map_100100_017",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Farmer's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_018",
+          "Value": {
+            "ID": "name_Map_100100_018",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Artist's Guild"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_200",
+          "Value": {
+            "ID": "name_Map_100100_200",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Weapon Shop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_300",
+          "Value": {
+            "ID": "name_Map_100100_300",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Armor Shop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_400",
+          "Value": {
+            "ID": "name_Map_100100_400",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Material Shop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_500",
+          "Value": {
+            "ID": "name_Map_100100_500",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Inn"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_600",
+          "Value": {
+            "ID": "name_Map_100100_600",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tool Shop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_700",
+          "Value": {
+            "ID": "name_Map_100100_700",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Restaurant"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_800",
+          "Value": {
+            "ID": "name_Map_100100_800",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tavern"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100100_900",
+          "Value": {
+            "ID": "name_Map_100100_900",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Trader",
+          "Value": {
+            "ID": "name_Trader",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Merchant"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Workbench",
+          "Value": {
+            "ID": "name_Workbench",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Workbench"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Bonfire",
+          "Value": {
+            "ID": "name_Bonfire",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Campfire"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_BulletinBoard",
+          "Value": {
+            "ID": "name_BulletinBoard",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Bulletin Board"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_ReforgedStoneExchange",
+          "Value": {
+            "ID": "name_ReforgedStoneExchange",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Redux Stone Exchange"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_chara_house",
+          "Value": {
+            "ID": "name_chara_house",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "<CHARA_NAME>'s House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_gallery",
+          "Value": {
+            "ID": "name_gallery",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Gallery"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_my_house",
+          "Value": {
+            "ID": "name_my_house",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Your House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_vacant_house",
+          "Value": {
+            "ID": "name_vacant_house",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Vacant House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_002",
+          "Value": {
+            "ID": "name_Map_100101_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Magician's Academy"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_003",
+          "Value": {
+            "ID": "name_Map_100101_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Rem's Room"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_004",
+          "Value": {
+            "ID": "name_Map_100101_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Ranoah's Room"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_005",
+          "Value": {
+            "ID": "name_Map_100101_005",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Aeshan's Room"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_006",
+          "Value": {
+            "ID": "name_Map_100101_006",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Inn and Tavern"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_007",
+          "Value": {
+            "ID": "name_Map_100101_007",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Luxurious Shop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_008",
+          "Value": {
+            "ID": "name_Map_100101_008",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Fortune-Teller's House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_009",
+          "Value": {
+            "ID": "name_Map_100101_009",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Blacksmith's House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100101_010",
+          "Value": {
+            "ID": "name_Map_100101_010",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "House of Cats"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100300_001",
+          "Value": {
+            "ID": "name_Map_100300_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Inaji's House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100400_001",
+          "Value": {
+            "ID": "name_Map_100400_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Paulette's Atelier"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100400_002",
+          "Value": {
+            "ID": "name_Map_100400_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Kikyo's House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100400_003",
+          "Value": {
+            "ID": "name_Map_100400_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Collector's House"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100500_001",
+          "Value": {
+            "ID": "name_Map_100500_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Frajeel Museum"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_100500_002",
+          "Value": {
+            "ID": "name_Map_100500_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Restaurant & Tavern"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_001",
+          "Value": {
+            "ID": "name_Map_200000_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Ginormosia"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_003",
+          "Value": {
+            "ID": "name_Map_200000_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Wyrm Maw Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_004",
+          "Value": {
+            "ID": "name_Map_200000_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Nostruul Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_007",
+          "Value": {
+            "ID": "name_Map_200000_007",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Agekara Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_008",
+          "Value": {
+            "ID": "name_Map_200000_008",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pettlewing Forest"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_010",
+          "Value": {
+            "ID": "name_Map_200000_010",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Great Nayvel Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_011",
+          "Value": {
+            "ID": "name_Map_200000_011",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Wyrmtail Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_012",
+          "Value": {
+            "ID": "name_Map_200000_012",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Fort Gardhart"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_012_2F",
+          "Value": {
+            "ID": "name_Map_200000_012_2F",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Fort Gardhart 2F"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_012_3F",
+          "Value": {
+            "ID": "name_Map_200000_012_3F",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Fort Gardhart 3F"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_013",
+          "Value": {
+            "ID": "name_Map_200000_013",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Jo'ee Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_014",
+          "Value": {
+            "ID": "name_Map_200000_014",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Sed'nas Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_015",
+          "Value": {
+            "ID": "name_Map_200000_015",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Angar Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_016",
+          "Value": {
+            "ID": "name_Map_200000_016",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Sker'ri Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_017",
+          "Value": {
+            "ID": "name_Map_200000_017",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Fan'ni Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_018",
+          "Value": {
+            "ID": "name_Map_200000_018",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Ba'reng Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_019",
+          "Value": {
+            "ID": "name_Map_200000_019",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Besh'fal Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_020",
+          "Value": {
+            "ID": "name_Map_200000_020",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Eeg'ah Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_021",
+          "Value": {
+            "ID": "name_Map_200000_021",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Gela'shi Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_022",
+          "Value": {
+            "ID": "name_Map_200000_022",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Het'rud Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_023",
+          "Value": {
+            "ID": "name_Map_200000_023",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Wav'yu Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_024",
+          "Value": {
+            "ID": "name_Map_200000_024",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Lun'li Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_025",
+          "Value": {
+            "ID": "name_Map_200000_025",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Faan Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_026",
+          "Value": {
+            "ID": "name_Map_200000_026",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Happi Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_027",
+          "Value": {
+            "ID": "name_Map_200000_027",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Dahl Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_028",
+          "Value": {
+            "ID": "name_Map_200000_028",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Bit'ah Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_029",
+          "Value": {
+            "ID": "name_Map_200000_029",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Thril'ah Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_030",
+          "Value": {
+            "ID": "name_Map_200000_030",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Wur'ii Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_031",
+          "Value": {
+            "ID": "name_Map_200000_031",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Ree'lif Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_032",
+          "Value": {
+            "ID": "name_Map_200000_032",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Glehd Shrine"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_033",
+          "Value": {
+            "ID": "name_Map_200000_033",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Haniwa Hamlet"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_034",
+          "Value": {
+            "ID": "name_Map_200000_034",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Buffalo Base"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_035",
+          "Value": {
+            "ID": "name_Map_200000_035",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tortortoise Town"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_036",
+          "Value": {
+            "ID": "name_Map_200000_036",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Simian Settlement"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_037",
+          "Value": {
+            "ID": "name_Map_200000_037",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Beetle Borough"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_038",
+          "Value": {
+            "ID": "name_Map_200000_038",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Panther Preserve"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_039",
+          "Value": {
+            "ID": "name_Map_200000_039",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Evershop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_040",
+          "Value": {
+            "ID": "name_Map_200000_040",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Found Leafe"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_200000_041",
+          "Value": {
+            "ID": "name_Map_200000_041",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Last Location"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_000100",
+          "Value": {
+            "ID": "name_WorldMap_000100",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Base Camp"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_000101",
+          "Value": {
+            "ID": "name_WorldMap_000101",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "The Depths"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_100100",
+          "Value": {
+            "ID": "name_WorldMap_100100",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Eternia Village"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_100101",
+          "Value": {
+            "ID": "name_WorldMap_100101",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Capital of Mysteria"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_100301",
+          "Value": {
+            "ID": "name_WorldMap_100301",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Faraway Island"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_100400",
+          "Value": {
+            "ID": "name_WorldMap_100400",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Tropica Isles"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_100500",
+          "Value": {
+            "ID": "name_WorldMap_100500",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Swolean Island"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_unexposed",
+          "Value": {
+            "ID": "name_WorldMap_unexposed",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "???"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_WorldMap_unexposed_01",
+          "Value": {
+            "ID": "name_WorldMap_unexposed_01",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Reveria"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_01",
+          "Value": {
+            "ID": "name_HugeMap_01",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "West Dryridge Desert"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_02",
+          "Value": {
+            "ID": "name_HugeMap_02",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "East Dryridge Desert"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_03",
+          "Value": {
+            "ID": "name_HugeMap_03",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Viridia Plateau"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_04",
+          "Value": {
+            "ID": "name_HugeMap_04",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "East Greatgut Plains"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_05",
+          "Value": {
+            "ID": "name_HugeMap_05",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "West Greatgut Plains"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_06",
+          "Value": {
+            "ID": "name_HugeMap_06",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "South Greatgut Plains"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_07",
+          "Value": {
+            "ID": "name_HugeMap_07",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pettlewing Woods"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_08",
+          "Value": {
+            "ID": "name_HugeMap_08",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Shroomhaven"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_09",
+          "Value": {
+            "ID": "name_HugeMap_09",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Wingtip Valley"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_10",
+          "Value": {
+            "ID": "name_HugeMap_10",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Moltana Wastes"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_11",
+          "Value": {
+            "ID": "name_HugeMap_11",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Scorchrock Mountain"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_12",
+          "Value": {
+            "ID": "name_HugeMap_12",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Crickneck Canyon"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_13",
+          "Value": {
+            "ID": "name_HugeMap_13",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Drakeseye Valley"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_14",
+          "Value": {
+            "ID": "name_HugeMap_14",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Drakesnout Range"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_HugeMap_15",
+          "Value": {
+            "ID": "name_HugeMap_15",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Fangshore Isles"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT000100_001",
+          "Value": {
+            "ID": "name_FT000100_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Back to Base Camp"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT000101_001",
+          "Value": {
+            "ID": "name_FT000101_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Depths Entrance"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100100_001",
+          "Value": {
+            "ID": "name_FT100100_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Eternia Village"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100101_001",
+          "Value": {
+            "ID": "name_FT100101_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Capital of Mysteria"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100101_002",
+          "Value": {
+            "ID": "name_FT100101_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Warren Willow Hollow"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100101_003",
+          "Value": {
+            "ID": "name_FT100101_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Quetzal Nest"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100101_004",
+          "Value": {
+            "ID": "name_FT100101_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Banaan Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100300_001",
+          "Value": {
+            "ID": "name_FT100300_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Idylla Village"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100300_002",
+          "Value": {
+            "ID": "name_FT100300_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Valley of Spirits"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100300_003",
+          "Value": {
+            "ID": "name_FT100300_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Terrasa Farm"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100300_004",
+          "Value": {
+            "ID": "name_FT100300_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Elder Tree"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100400_001",
+          "Value": {
+            "ID": "name_FT100400_001",
+            "nounInfo": [
+              {
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100400_002",
+          "Value": {
+            "ID": "name_FT100400_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Onwar Island"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100400_003",
+          "Value": {
+            "ID": "name_FT100400_003",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Da Finci Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100400_004",
+          "Value": {
+            "ID": "name_FT100400_004",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Profunda Cave"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100500_001",
+          "Value": {
+            "ID": "name_FT100500_001",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Skwaat Pier"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_FT100500_002",
+          "Value": {
+            "ID": "name_FT100500_002",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Cave of Trials"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_01",
+          "Value": {
+            "ID": "name_Obstacle_01",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Develop"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_02",
+          "Value": {
+            "ID": "name_Obstacle_02",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Restore"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_03",
+          "Value": {
+            "ID": "name_Obstacle_03",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Sealed"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_04",
+          "Value": {
+            "ID": "name_Obstacle_04",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Boulder"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_05",
+          "Value": {
+            "ID": "name_Obstacle_05",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Debris"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_06",
+          "Value": {
+            "ID": "name_Obstacle_06",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Big Tree"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Obstacle_07",
+          "Value": {
+            "ID": "name_Obstacle_07",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Polturnip"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_Map_TGS_2024",
+          "Value": {
+            "ID": "name_Map_TGS_2024",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Ginormosia"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_dungeon_ripening_alter",
+          "Value": {
+            "ID": "name_dungeon_ripening_alter",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Aging Altar"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_dungeon_magic_square",
+          "Value": {
+            "ID": "name_dungeon_magic_square",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Warp Circle"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_end_exploration",
+          "Value": {
+            "ID": "name_end_exploration",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "End Exploration"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_purpose_pin_01",
+          "Value": {
+            "ID": "name_purpose_pin_01",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pin 1"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_purpose_pin_02",
+          "Value": {
+            "ID": "name_purpose_pin_02",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pin 2"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_purpose_pin_03",
+          "Value": {
+            "ID": "name_purpose_pin_03",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pin 3"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_purpose_pin_04",
+          "Value": {
+            "ID": "name_purpose_pin_04",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pin 4"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_purpose_pin_05",
+          "Value": {
+            "ID": "name_purpose_pin_05",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Pin 5"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_00",
+          "Value": {
+            "ID": "name_TGS_kanban_00",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Sign of Beginnings"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_01",
+          "Value": {
+            "ID": "name_TGS_kanban_01",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Movement"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_02",
+          "Value": {
+            "ID": "name_TGS_kanban_02",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Climbing Ledges"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_03",
+          "Value": {
+            "ID": "name_TGS_kanban_03",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "The Map"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_04",
+          "Value": {
+            "ID": "name_TGS_kanban_04",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "The Weird Pad"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_05",
+          "Value": {
+            "ID": "name_TGS_kanban_05",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Items"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_06",
+          "Value": {
+            "ID": "name_TGS_kanban_06",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Changing Lives"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_07",
+          "Value": {
+            "ID": "name_TGS_kanban_07",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Mounts"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_08",
+          "Value": {
+            "ID": "name_TGS_kanban_08",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Combat"
+              }
+            ]
+          }
+        },
+        {
+          "Key": "name_TGS_kanban_09",
+          "Value": {
+            "ID": "name_TGS_kanban_09",
+            "nounInfo": [
+              {
+                "nounSingularForm_en": "Swimming"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

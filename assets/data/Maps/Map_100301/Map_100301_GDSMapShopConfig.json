@@ -1,0 +1,22 @@
+{
+  "m_dataMap": [
+    {
+      "Key": {
+        "crc": 322180474,
+        "Name": "shop100301_chr903e01_00"
+      },
+      "Value": {
+        "ID": {
+          "crc": 322180474,
+          "Name": "shop100301_chr903e01_00"
+        },
+        "shopInfoArray": [
+          {
+            "shopId": "shop_Map100301_item_00",
+            "cond": []
+          }
+        ]
+      }
+    }
+  ]
+}

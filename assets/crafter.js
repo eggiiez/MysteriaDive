@@ -7,7 +7,7 @@ let changeAmountSelection;
 let previousAmount = 0;
 
 document.addEventListener('DOMContentLoaded', ()=>{
-    const recipesUrl = "./assets/GDSRecipeData.json";
+    const recipesUrl = "./assets/data/GDSRecipeData.json";
     fetch(recipesUrl)
     .then(response=>response.json())
     .then(data=>{
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', ()=>{
       if(namesData != null) { onReady(); }
     });
 
-    const namesUrl = "./assets/GDSItemText_Noun.json";
+    const namesUrl = "./assets/data/GDSItemText_Noun.json";
     fetch(namesUrl)
     .then(response=>response.json())
     .then(data=>{

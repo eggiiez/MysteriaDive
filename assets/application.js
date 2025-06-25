@@ -1,17 +1,3 @@
-var recipes;
-
-document.addEventListener('DOMContentLoaded', ()=>{
-     let url = "recipes.xml";
-     fetch(url)
-     .then(response=>response.text())
-     .then(data=>{
-      let parser = new DOMParser();
-      let xml = parser.parseFromString(data, "text/xml");
-      recipes = xml.getElementsByTagName("recipe");
-      buildRecipeList();
-     });
-  })
-
 function levelChange(src)
     {
       let tableRow = src.closest("tr");

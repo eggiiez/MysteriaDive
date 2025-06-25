@@ -1,0 +1,5207 @@
+{
+  "m_dataMap": [
+    {
+      "Key": "map_100400_chr100301",
+      "Value": {
+        "ID": "map_100400_chr100301",
+        "npcID": "map_100400_chr100301",
+        "npcType": 1,
+        "charaID": "chr100301",
+        "overWriteCharaNameId": "name_chr100301",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 16429.207,
+              "Y": -6899.055,
+              "Z": 148.07132,
+              "W": 1.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": true,
+              "shapeType": 0,
+              "Radius": 600.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Less",
+                "arg": [
+                  {
+                    "m_offset": 0,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "HONEGON_SLEEP2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": 16429.207,
+              "Y": -6899.055,
+              "Z": 148.07132,
+              "W": 1.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": true,
+              "shapeType": 0,
+              "Radius": 600.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 5,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 10,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "None"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": 16429.207,
+              "Y": -6899.055,
+              "Z": 148.07132,
+              "W": 1.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": true,
+              "shapeType": 0,
+              "Radius": 600.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Greater",
+                "arg": [
+                  {
+                    "m_offset": 15,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "HONEGON_SLEEP2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "map_100400_chr100301"
+      }
+    },
+    {
+      "Key": "qm_p50090_chr101100",
+      "Value": {
+        "ID": "qm_p50090_chr101100",
+        "npcID": "qm_p50090_chr101100",
+        "npcType": 1,
+        "charaID": "chr101100",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": -10789.9,
+              "Y": 9217.3,
+              "Z": 162.2,
+              "W": 182.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 20,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": -11626.2,
+              "Y": 9043.1,
+              "Z": 162.2,
+              "W": 101.4
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 25,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 30,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "qm_p50090_chr101100"
+      }
+    },
+    {
+      "Key": "qm_p50090_chr100100",
+      "Value": {
+        "ID": "qm_p50090_chr100100",
+        "npcID": "qm_p50090_chr100100",
+        "npcType": 1,
+        "charaID": "chr100100",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": -11610.0,
+              "Y": 9370.0,
+              "Z": 126.0,
+              "W": -22.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 35,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SIT_GROUND1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": -11610.0,
+              "Y": 9370.0,
+              "Z": 126.0,
+              "W": -22.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 40,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SIT_GROUND1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "qm_p50090_chr100100"
+      }
+    },
+    {
+      "Key": "qm_p50090_chr100700",
+      "Value": {
+        "ID": "qm_p50090_chr100700",
+        "npcID": "qm_p50090_chr100700",
+        "npcType": 1,
+        "charaID": "chr100700",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": -11140.0,
+              "Y": 8400.0,
+              "Z": 30.0,
+              "W": 95.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 45,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": -5793.7,
+              "Y": 5937.3,
+              "Z": 121.9,
+              "W": 100.8
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 50,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": -11140.0,
+              "Y": 8400.0,
+              "Z": 30.0,
+              "W": 95.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 55,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "qm_p50090_chr100700"
+      }
+    },
+    {
+      "Key": "qm_p50150_chr003100",
+      "Value": {
+        "ID": "qm_p50150_chr003100",
+        "npcID": "qm_p50150_chr003100",
+        "npcType": 1,
+        "charaID": "chr003100",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14683.2,
+              "Y": -203.6,
+              "Z": -7866.9,
+              "W": 180.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 60,
+                    "m_dataSize": 4
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 65,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "THINK_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "qm_p50150_chr003100"
+      }
+    },
+    {
+      "Key": "Map_100400_area_01_chr100700",
+      "Value": {
+        "ID": "Map_100400_area_01_chr100700",
+        "npcID": "Map_100400_area_01_chr100700",
+        "npcType": 1,
+        "charaID": "chr100700",
+        "overWriteCharaNameId": "name_chr100700",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14725.5,
+              "Y": 249.3,
+              "Z": -7867.3,
+              "W": 90.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 70,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 75,
+                    "m_dataSize": 4
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 80,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "RUNRUN_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": 14749.4,
+              "Y": 0.0,
+              "Z": -7869.0,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Greater",
+                "arg": [
+                  {
+                    "m_offset": 85,
+                    "m_dataSize": 4
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 90,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "Map_100400_area_01_chr100700"
+      }
+    },
+    {
+      "Key": "shop100400_chr901400_00",
+      "Value": {
+        "ID": "shop100400_chr901400_00",
+        "npcID": "shop100400_chr901400_00",
+        "npcType": 1,
+        "charaID": "chr901400",
+        "overWriteCharaNameId": "name_shop_chara_001",
+        "overWriteIconId": "ICON_NAMEPLATE_SHOP_03",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15431.0,
+              "Y": -8881.0,
+              "Z": 442.0,
+              "W": 68.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "shop100400_chr901400_00"
+      }
+    },
+    {
+      "Key": "shop100400_chr901301_00",
+      "Value": {
+        "ID": "shop100400_chr901301_00",
+        "npcID": "shop100400_chr901301_00",
+        "npcType": 1,
+        "charaID": "chr901301",
+        "overWriteCharaNameId": "name_shop_chara_007",
+        "overWriteIconId": "ICON_NAMEPLATE_SHOP_01",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15234.0,
+              "Y": -6469.0,
+              "Z": 442.0,
+              "W": -86.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "shop100400_chr901301_00"
+      }
+    },
+    {
+      "Key": "shop100400_chr901401_00",
+      "Value": {
+        "ID": "shop100400_chr901401_00",
+        "npcID": "shop100400_chr901401_00",
+        "npcType": 1,
+        "charaID": "chr901401",
+        "overWriteCharaNameId": "name_shop_chara_005",
+        "overWriteIconId": "ICON_NAMEPLATE_SHOP_02",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15570.0,
+              "Y": -6557.8,
+              "Z": 442.7,
+              "W": -129.2
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "shop100400_chr901401_00"
+      }
+    },
+    {
+      "Key": "shop100400_chr900f00_00",
+      "Value": {
+        "ID": "shop100400_chr900f00_00",
+        "npcID": "shop100400_chr900f00_00",
+        "npcType": 1,
+        "charaID": "chr900f00",
+        "overWriteCharaNameId": "name_shop_chara_008",
+        "overWriteIconId": "ICON_NAMEPLATE_RESTLANT_00",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 11053.0,
+              "Y": -4231.0,
+              "Z": 19.0,
+              "W": 130.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "shop100400_chr900f00_00"
+      }
+    },
+    {
+      "Key": "shop100400_chr900300_00",
+      "Value": {
+        "ID": "shop100400_chr900300_00",
+        "npcID": "shop100400_chr900300_00",
+        "npcType": 1,
+        "charaID": "chr901300",
+        "overWriteCharaNameId": "name_shop_chara_005",
+        "overWriteIconId": "ICON_NAMEPLATE_SHOP_02",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": -4635.0,
+              "Y": 6132.0,
+              "Z": 128.0,
+              "W": 111.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "shop100400_chr900300_00"
+      }
+    },
+    {
+      "Key": "shop100400_chr901302_00",
+      "Value": {
+        "ID": "shop100400_chr901302_00",
+        "npcID": "shop100400_chr901302_00",
+        "npcType": 1,
+        "charaID": "chr901302",
+        "overWriteCharaNameId": "name_shop_chara_006",
+        "overWriteIconId": "ICON_NAMEPLATE_INN_00",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14687.7,
+              "Y": -271.0,
+              "Z": -7868.7,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": true,
+              "shapeType": 0,
+              "Radius": 300.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 95,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "shop100400_chr901302_00"
+      }
+    },
+    {
+      "Key": "Map_100400_area_03_chr904300",
+      "Value": {
+        "ID": "Map_100400_area_03_chr904300",
+        "npcID": "Map_100400_area_03_chr904300",
+        "npcType": 1,
+        "charaID": "chr904300",
+        "overWriteCharaNameId": "name_qsa_chr904300_00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14681.1,
+              "Y": -199.7,
+              "Z": -7867.8,
+              "W": 53.2
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 100,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_area_03_chr904300"
+      }
+    },
+    {
+      "Key": "Map_100400_area_04_chr903302_00",
+      "Value": {
+        "ID": "Map_100400_area_04_chr903302_00",
+        "npcID": "Map_100400_area_04_chr903302_00",
+        "npcType": 1,
+        "charaID": "chr903302",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14824.0,
+              "Y": 332.0,
+              "Z": -7867.0,
+              "W": -45.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 105,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_area_04_chr903302_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900200_00",
+      "Value": {
+        "ID": "Map_100400_chr900200_00",
+        "npcID": "Map_100400_chr900200_00",
+        "npcType": 1,
+        "charaID": "chr900200",
+        "overWriteCharaNameId": "name_qsa_chr900200_10",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18621.8,
+              "Y": -7156.2,
+              "Z": 240.2,
+              "W": -1.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "FOLD_ARMS_2L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900200_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900200_40",
+      "Value": {
+        "ID": "Map_100400_chr900200_40",
+        "npcID": "Map_100400_chr900200_40",
+        "npcType": 1,
+        "charaID": "chr900200",
+        "overWriteCharaNameId": "name_qsa_chr900200_10",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18451.2,
+              "Y": -4939.0,
+              "Z": 543.7,
+              "W": 76.6
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "FOLD_ARMS_2L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900200_40"
+      }
+    },
+    {
+      "Key": "Map_100400_chr904100_00",
+      "Value": {
+        "ID": "Map_100400_chr904100_00",
+        "npcID": "Map_100400_chr904100_00",
+        "npcType": 1,
+        "charaID": "chr900800",
+        "overWriteCharaNameId": "name_chr900800",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18778.8,
+              "Y": -5502.8,
+              "Z": 561.9,
+              "W": -175.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "LOOK_AROUND_2L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr904100_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900100_00",
+      "Value": {
+        "ID": "Map_100400_chr900100_00",
+        "npcID": "Map_100400_chr900100_00",
+        "npcType": 2,
+        "charaID": "chr900102",
+        "overWriteCharaNameId": "name_chr900100",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900100_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903300_00",
+      "Value": {
+        "ID": "Map_100400_chr903300_00",
+        "npcID": "Map_100400_chr903300_00",
+        "npcType": 1,
+        "charaID": "chr903300",
+        "overWriteCharaNameId": "name_mob_map100400_00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10921.5,
+              "Y": -8822.3,
+              "Z": 592.6,
+              "W": -139.4
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "LAUGH_SAMLL_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903300_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901000_10",
+      "Value": {
+        "ID": "Map_100400_chr901000_10",
+        "npcID": "Map_100400_chr901000_10",
+        "npcType": 1,
+        "charaID": "chr901000",
+        "overWriteCharaNameId": "name_chr901000",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 12210.6,
+              "Y": -7079.4,
+              "Z": 378.9,
+              "W": -164.2
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "THINK_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901000_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901a00_00",
+      "Value": {
+        "ID": "Map_100400_chr901a00_00",
+        "npcID": "Map_100400_chr901a00_00",
+        "npcType": 2,
+        "charaID": "chr901a01",
+        "overWriteCharaNameId": "name_chr901a00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901a00_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901900_00",
+      "Value": {
+        "ID": "Map_100400_chr901900_00",
+        "npcID": "Map_100400_chr901900_00",
+        "npcType": 1,
+        "charaID": "chr901902",
+        "overWriteCharaNameId": "name_chr901900",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10772.3,
+              "Y": -964.7,
+              "Z": 118.5,
+              "W": 99.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901900_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901900_10",
+      "Value": {
+        "ID": "Map_100400_chr901900_10",
+        "npcID": "Map_100400_chr901900_10",
+        "npcType": 1,
+        "charaID": "chr901901",
+        "overWriteCharaNameId": "name_chr901900",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18613.6,
+              "Y": -4514.8,
+              "Z": 555.4,
+              "W": 79.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901900_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903100_00",
+      "Value": {
+        "ID": "Map_100400_chr903100_00",
+        "npcID": "Map_100400_chr903100_00",
+        "npcType": 1,
+        "charaID": "chr903100",
+        "overWriteCharaNameId": "name_chr903100",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 13087.5,
+              "Y": -5926.4,
+              "Z": 518.0,
+              "W": -105.4
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903100_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900600_00",
+      "Value": {
+        "ID": "Map_100400_chr900600_00",
+        "npcID": "Map_100400_chr900600_00",
+        "npcType": 2,
+        "charaID": "chr900600",
+        "overWriteCharaNameId": "name_chr900600",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900600_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901500_00",
+      "Value": {
+        "ID": "Map_100400_chr901500_00",
+        "npcID": "Map_100400_chr901500_00",
+        "npcType": 1,
+        "charaID": "chr901500",
+        "overWriteCharaNameId": "name_chr901500",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10368.4,
+              "Y": -5173.1,
+              "Z": 290.2,
+              "W": -2.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "LOOK_AROUND_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901500_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900200_10",
+      "Value": {
+        "ID": "Map_100400_chr900200_10",
+        "npcID": "Map_100400_chr900200_10",
+        "npcType": 1,
+        "charaID": "chr900201",
+        "overWriteCharaNameId": "name_qsa_chr900200_10",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10368.4,
+              "Y": -5173.1,
+              "Z": 290.2,
+              "W": 168.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900200_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903300_10",
+      "Value": {
+        "ID": "Map_100400_chr903300_10",
+        "npcID": "Map_100400_chr903300_10",
+        "npcType": 1,
+        "charaID": "chr903300",
+        "overWriteCharaNameId": "name_chr900100",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10743.0,
+              "Y": -4449.4,
+              "Z": 195.1,
+              "W": 139.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "GUTS_1L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903300_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900200_20",
+      "Value": {
+        "ID": "Map_100400_chr900200_20",
+        "npcID": "Map_100400_chr900200_20",
+        "npcType": 1,
+        "charaID": "chr900202",
+        "overWriteCharaNameId": "name_qsa_chr900200_10",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 7996.8,
+              "Y": -645.0,
+              "Z": 104.5,
+              "W": 102.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "THINK_2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900200_20"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901700_00",
+      "Value": {
+        "ID": "Map_100400_chr901700_00",
+        "npcID": "Map_100400_chr901700_00",
+        "npcType": 1,
+        "charaID": "chr901700",
+        "overWriteCharaNameId": "name_mob_map100400_02",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 4525.4,
+              "Y": -5236.3,
+              "Z": 134.8,
+              "W": -85.1
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901700_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901300_00",
+      "Value": {
+        "ID": "Map_100400_chr901300_00",
+        "npcID": "Map_100400_chr901300_00",
+        "npcType": 1,
+        "charaID": "chr901302",
+        "overWriteCharaNameId": "name_chr901300",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 4488.2,
+              "Y": -6440.0,
+              "Z": 93.1,
+              "W": 172.8
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "THINK_1L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901300_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903300_20",
+      "Value": {
+        "ID": "Map_100400_chr903300_20",
+        "npcID": "Map_100400_chr903300_20",
+        "npcType": 1,
+        "charaID": "chr900101",
+        "overWriteCharaNameId": "name_chr900100",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10613.0,
+              "Y": -3895.0,
+              "Z": 225.0,
+              "W": -60.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SIT_CHAIR1L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903300_20"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903f00_00",
+      "Value": {
+        "ID": "Map_100400_chr903f00_00",
+        "npcID": "Map_100400_chr903f00_00",
+        "npcType": 1,
+        "charaID": "chr903001",
+        "overWriteCharaNameId": "name_chr903f00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 13706.5,
+              "Y": -6745.0,
+              "Z": 442.7,
+              "W": 8.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "HANG_2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903f00_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr904000_00",
+      "Value": {
+        "ID": "Map_100400_chr904000_00",
+        "npcID": "Map_100400_chr904000_00",
+        "npcType": 1,
+        "charaID": "chr903301",
+        "overWriteCharaNameId": "name_chr904000",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14569.2,
+              "Y": -6561.9,
+              "Z": 642.7,
+              "W": -82.9
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "MOJIMOJI_1L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr904000_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr904300_00",
+      "Value": {
+        "ID": "Map_100400_chr904300_00",
+        "npcID": "Map_100400_chr904300_00",
+        "npcType": 1,
+        "charaID": "chr904300",
+        "overWriteCharaNameId": "name_chr904300",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18054.5,
+              "Y": -4499.9,
+              "Z": 564.6,
+              "W": 63.7
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr904300_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900600_10",
+      "Value": {
+        "ID": "Map_100400_chr900600_10",
+        "npcID": "Map_100400_chr900600_10",
+        "npcType": 1,
+        "charaID": "chr900601",
+        "overWriteCharaNameId": "name_story_003000_00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14915.0,
+              "Y": -8498.0,
+              "Z": 354.5,
+              "W": 88.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "CHEER_2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900600_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900500_00",
+      "Value": {
+        "ID": "Map_100400_chr900500_00",
+        "npcID": "Map_100400_chr900500_00",
+        "npcType": 1,
+        "charaID": "chr900501",
+        "overWriteCharaNameId": "name_story_003100_00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14920.0,
+              "Y": -8354.121,
+              "Z": 354.5,
+              "W": -88.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "LAUGH_SAMLL_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900500_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901000_00",
+      "Value": {
+        "ID": "Map_100400_chr901000_00",
+        "npcID": "Map_100400_chr901000_00",
+        "npcType": 1,
+        "charaID": "chr904d00",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15116.2,
+              "Y": -304.9,
+              "Z": -7867.0,
+              "W": 90.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 110,
+                    "m_dataSize": 7
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_QuestPhase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 115,
+                    "m_dataSize": 14
+                  },
+                  {
+                    "m_offset": 120,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 125,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": 15116.2,
+              "Y": -304.9,
+              "Z": -7867.0,
+              "W": 90.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 130,
+                    "m_dataSize": 7
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_QuestPhase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 135,
+                    "m_dataSize": 14
+                  },
+                  {
+                    "m_offset": 140,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 145,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": 12410.0,
+              "Y": -4610.0,
+              "Z": 200.0,
+              "W": -94.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_QuestPhase_Less",
+                "arg": [
+                  {
+                    "m_offset": 150,
+                    "m_dataSize": 14
+                  },
+                  {
+                    "m_offset": 155,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          },
+          {
+            "Location": {
+              "X": 12410.0,
+              "Y": -4610.0,
+              "Z": 200.0,
+              "W": -94.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_QuestPhase_Equal",
+                "arg": [
+                  {
+                    "m_offset": 160,
+                    "m_dataSize": 14
+                  },
+                  {
+                    "m_offset": 165,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901000_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900200_30",
+      "Value": {
+        "ID": "Map_100400_chr900200_30",
+        "npcID": "Map_100400_chr900200_30",
+        "npcType": 1,
+        "charaID": "chr900200",
+        "overWriteCharaNameId": "name_mob_map100400_01",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 13240.2,
+              "Y": -7622.1,
+              "Z": 354.6,
+              "W": 88.6
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "MOJIMOJI_2L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900200_30"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900900_00",
+      "Value": {
+        "ID": "Map_100400_chr900900_00",
+        "npcID": "Map_100400_chr900900_00",
+        "npcType": 1,
+        "charaID": "chr900900",
+        "overWriteCharaNameId": "name_story_002900_00",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 11402.0,
+              "Y": -5076.7,
+              "Z": 290.3,
+              "W": 109.2
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900900_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900900_10",
+      "Value": {
+        "ID": "Map_100400_chr900900_10",
+        "npcID": "Map_100400_chr900900_10",
+        "npcType": 1,
+        "charaID": "chr900901",
+        "overWriteCharaNameId": "name_chr900900",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18028.0,
+              "Y": -6265.0,
+              "Z": 240.2,
+              "W": -85.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900900_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900900_20",
+      "Value": {
+        "ID": "Map_100400_chr900900_20",
+        "npcID": "Map_100400_chr900900_20",
+        "npcType": 1,
+        "charaID": "chr900902",
+        "overWriteCharaNameId": "name_chr900900",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 17982.0,
+              "Y": -5797.0,
+              "Z": 540.0,
+              "W": 60.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900900_20"
+      }
+    },
+    {
+      "Key": "Map_100400_chr904300_20",
+      "Value": {
+        "ID": "Map_100400_chr904300_20",
+        "npcID": "Map_100400_chr904300_20",
+        "npcType": 1,
+        "charaID": "chr904300",
+        "overWriteCharaNameId": "name_chr904300",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 12128.0,
+              "Y": -7784.2,
+              "Z": 466.9,
+              "W": 156.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr904300_20"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901501_00",
+      "Value": {
+        "ID": "Map_100400_chr901501_00",
+        "npcID": "Map_100400_chr901501_00",
+        "npcType": 1,
+        "charaID": "chr901501",
+        "overWriteCharaNameId": "name_chr901500",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 12195.5,
+              "Y": -7680.7,
+              "Z": 466.9,
+              "W": 166.1
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND9L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901501_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901000_20",
+      "Value": {
+        "ID": "Map_100400_chr901000_20",
+        "npcID": "Map_100400_chr901000_20",
+        "npcType": 1,
+        "charaID": "chr901000",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15044.7,
+              "Y": 323.5,
+              "Z": -7865.9,
+              "W": 90.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 170,
+                    "m_dataSize": 7
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "LOOK_AROUND_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901000_20"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900900_30",
+      "Value": {
+        "ID": "Map_100400_chr900900_30",
+        "npcID": "Map_100400_chr900900_30",
+        "npcType": 1,
+        "charaID": "chr900904",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 17399.0,
+              "Y": -5152.3,
+              "Z": 767.4,
+              "W": 0.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900900_30"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900c00_00",
+      "Value": {
+        "ID": "Map_100400_chr900c00_00",
+        "npcID": "Map_100400_chr900c00_00",
+        "npcType": 1,
+        "charaID": "chr900c00",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15084.9,
+              "Y": -6729.3,
+              "Z": 442.6,
+              "W": -167.2
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "TALK_4L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900c00_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903302_00",
+      "Value": {
+        "ID": "Map_100400_chr903302_00",
+        "npcID": "Map_100400_chr903302_00",
+        "npcType": 1,
+        "charaID": "chr903302",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15041.7,
+              "Y": -6882.9,
+              "Z": 442.6,
+              "W": 110.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "TALK_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903302_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901502_00",
+      "Value": {
+        "ID": "Map_100400_chr901502_00",
+        "npcID": "Map_100400_chr901502_00",
+        "npcType": 1,
+        "charaID": "chr901502",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15827.0,
+              "Y": -6971.0,
+              "Z": 502.0,
+              "W": -169.9
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SIT_CHAIR1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901502_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900502_00",
+      "Value": {
+        "ID": "Map_100400_chr900502_00",
+        "npcID": "Map_100400_chr900502_00",
+        "npcType": 1,
+        "charaID": "chr900502",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15711.9,
+              "Y": -6975.5,
+              "Z": 442.6,
+              "W": -0.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "HAPPY_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900502_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903101_00",
+      "Value": {
+        "ID": "Map_100400_chr903101_00",
+        "npcID": "Map_100400_chr903101_00",
+        "npcType": 1,
+        "charaID": "chr903101",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 13883.1,
+              "Y": -9220.1,
+              "Z": 442.7,
+              "W": -80.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "LOOK_AROUND_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903101_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900b01_00",
+      "Value": {
+        "ID": "Map_100400_chr900b01_00",
+        "npcID": "Map_100400_chr900b01_00",
+        "npcType": 1,
+        "charaID": "chr900b01",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14412.0,
+              "Y": -5570.0,
+              "Z": 642.7,
+              "W": 10.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "RUNRUN_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900b01_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr904300_10",
+      "Value": {
+        "ID": "Map_100400_chr904300_10",
+        "npcID": "Map_100400_chr904300_10",
+        "npcType": 1,
+        "charaID": "chr904300",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15595.2,
+              "Y": -9075.0,
+              "Z": 442.7,
+              "W": -91.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "GUTS_2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr904300_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900201_00",
+      "Value": {
+        "ID": "Map_100400_chr900201_00",
+        "npcID": "Map_100400_chr900201_00",
+        "npcType": 1,
+        "charaID": "chr900201",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15888.0,
+              "Y": -9053.0,
+              "Z": 488.0,
+              "W": -25.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SIT_CHAIR2L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900201_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901601_00",
+      "Value": {
+        "ID": "Map_100400_chr901601_00",
+        "npcID": "Map_100400_chr901601_00",
+        "npcType": 1,
+        "charaID": "chr901601",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14614.4,
+              "Y": 321.0,
+              "Z": -7827.5,
+              "W": -80.4
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 175,
+                    "m_dataSize": 7
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SLEEP_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901601_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901601_10",
+      "Value": {
+        "ID": "Map_100400_chr901601_10",
+        "npcID": "Map_100400_chr901601_10",
+        "npcType": 1,
+        "charaID": "chr901601",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15266.0,
+              "Y": -375.5,
+              "Z": -7868.1,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 180,
+                    "m_dataSize": 7
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "RUNRUN_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901601_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903101_10",
+      "Value": {
+        "ID": "Map_100400_chr903101_10",
+        "npcID": "Map_100400_chr903101_10",
+        "npcType": 1,
+        "charaID": "chr903101",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 15205.0,
+              "Y": -371.0,
+              "Z": -7826.9,
+              "W": 0.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_SubMapId_Equal",
+                "arg": [
+                  {
+                    "m_offset": 185,
+                    "m_dataSize": 7
+                  }
+                ]
+              },
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsNight",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SIT_CHAIR1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903101_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr900903_00",
+      "Value": {
+        "ID": "Map_100400_chr900903_00",
+        "npcID": "Map_100400_chr900903_00",
+        "npcType": 1,
+        "charaID": "chr900903",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 9356.5,
+              "Y": -10214.8,
+              "Z": 841.6,
+              "W": 15.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_GameTimePeriod_IsDay",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "SLEEP_1L"
+              }
+            ],
+            "bDisableLookToPlayer": true,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr900903_00"
+      }
+    },
+    {
+      "Key": "Map_100400_chr901900_20",
+      "Value": {
+        "ID": "Map_100400_chr901900_20",
+        "npcID": "Map_100400_chr901900_20",
+        "npcType": 1,
+        "charaID": "chr901900",
+        "overWriteCharaNameId": "name_test",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14098.9,
+              "Y": -7723.8,
+              "Z": 460.3,
+              "W": 135.6
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr901900_20"
+      }
+    },
+    {
+      "Key": "Map_100400_chr906100_10",
+      "Value": {
+        "ID": "Map_100400_chr906100_10",
+        "npcID": "Map_100400_chr906100_10",
+        "npcType": 1,
+        "charaID": "chr906100",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 7446.6,
+              "Y": -5735.4,
+              "Z": 127.6,
+              "W": 79.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 190,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 195,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr906100_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr906200_10",
+      "Value": {
+        "ID": "Map_100400_chr906200_10",
+        "npcID": "Map_100400_chr906200_10",
+        "npcType": 1,
+        "charaID": "chr906300",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 7569.3,
+              "Y": -5784.2,
+              "Z": 133.6,
+              "W": 79.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 200,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 205,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr906200_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr906300_10",
+      "Value": {
+        "ID": "Map_100400_chr906300_10",
+        "npcID": "Map_100400_chr906300_10",
+        "npcType": 1,
+        "charaID": "chr906200",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 7326.6,
+              "Y": -5754.4,
+              "Z": 131.4,
+              "W": 79.5
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_GreaterAndLess",
+                "arg": [
+                  {
+                    "m_offset": 210,
+                    "m_dataSize": 4
+                  },
+                  {
+                    "m_offset": 215,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "Map_100400_chr906300_10"
+      }
+    },
+    {
+      "Key": "Map_100400_chr903400_00",
+      "Value": {
+        "ID": "Map_100400_chr903400_00",
+        "npcID": "Map_100400_chr903400_00",
+        "npcType": 1,
+        "charaID": "chr903400",
+        "overWriteCharaNameId": "name_chr903400",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 18033.8,
+              "Y": -7290.7,
+              "Z": 240.1,
+              "W": -90.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Greater",
+                "arg": [
+                  {
+                    "m_offset": 220,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": true,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "None"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": false
+          }
+        ],
+        "npcTalkId": "Map_100400_chr903400_00"
+      }
+    },
+    {
+      "Key": "qsb100400_0101_chr900200",
+      "Value": {
+        "ID": "qsb100400_0101_chr900200",
+        "npcID": "qsb100400_0101_chr900200",
+        "npcType": 1,
+        "charaID": "chr900200",
+        "overWriteCharaNameId": "name_qsb100301_0101",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 6264.7,
+              "Y": -6742.2,
+              "Z": 140.6,
+              "W": -51.8
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0101_chr900200"
+      }
+    },
+    {
+      "Key": "qsb100400_0201_chr901600",
+      "Value": {
+        "ID": "qsb100400_0201_chr901600",
+        "npcID": "qsb100400_0201_chr901600",
+        "npcType": 1,
+        "charaID": "chr901600",
+        "overWriteCharaNameId": "name_qsb100301_0201",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 17272.2,
+              "Y": -8545.6,
+              "Z": 442.7,
+              "W": 9.4
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND10L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0201_chr901600"
+      }
+    },
+    {
+      "Key": "qsb100400_0301_chr900100",
+      "Value": {
+        "ID": "qsb100400_0301_chr900100",
+        "npcID": "qsb100400_0301_chr900100",
+        "npcType": 1,
+        "charaID": "chr900100",
+        "overWriteCharaNameId": "name_qsb100301_0301",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 12938.3,
+              "Y": -8801.2,
+              "Z": 442.6,
+              "W": 175.7
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND6L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0301_chr900100"
+      }
+    },
+    {
+      "Key": "qsb100400_0401_chr901400",
+      "Value": {
+        "ID": "qsb100400_0401_chr901400",
+        "npcID": "qsb100400_0401_chr901400",
+        "npcType": 1,
+        "charaID": "chr901400",
+        "overWriteCharaNameId": "name_qsb100301_0401",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 9284.3,
+              "Y": -8582.7,
+              "Z": 592.6,
+              "W": -173.3
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0401_chr901400"
+      }
+    },
+    {
+      "Key": "qsb100400_0501_chr900b00",
+      "Value": {
+        "ID": "qsb100400_0501_chr900b00",
+        "npcID": "qsb100400_0501_chr900b00",
+        "npcType": 1,
+        "charaID": "chr900b00",
+        "overWriteCharaNameId": "name_qsb100301_0501",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 10802.3,
+              "Y": -4781.7,
+              "Z": 208.7,
+              "W": -29.9
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0501_chr900b00"
+      }
+    },
+    {
+      "Key": "qsb100400_0601_chr900900",
+      "Value": {
+        "ID": "qsb100400_0601_chr900900",
+        "npcID": "qsb100400_0601_chr900900",
+        "npcType": 1,
+        "charaID": "chr900900",
+        "overWriteCharaNameId": "name_qsb100301_0601",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 14006.0,
+              "Y": -7138.0,
+              "Z": 442.7,
+              "W": -38.4
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0601_chr900900"
+      }
+    },
+    {
+      "Key": "qsb100400_0701_chr900300",
+      "Value": {
+        "ID": "qsb100400_0701_chr900300",
+        "npcID": "qsb100400_0701_chr900300",
+        "npcType": 1,
+        "charaID": "chr900304",
+        "overWriteCharaNameId": "name_qsb100301_0701",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": -6756.0,
+              "Y": -1373.0,
+              "Z": 120.2,
+              "W": 156.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND3L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0701_chr900300"
+      }
+    },
+    {
+      "Key": "qsb100400_0801_chr900500",
+      "Value": {
+        "ID": "qsb100400_0801_chr900500",
+        "npcID": "qsb100400_0801_chr900500",
+        "npcType": 1,
+        "charaID": "chr900500",
+        "overWriteCharaNameId": "name_qsb100301_0801",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 9530.4,
+              "Y": -6951.8,
+              "Z": 592.6,
+              "W": 64.8
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0801_chr900500"
+      }
+    },
+    {
+      "Key": "qsb100400_0901_chr901600",
+      "Value": {
+        "ID": "qsb100400_0901_chr901600",
+        "npcID": "qsb100400_0901_chr901600",
+        "npcType": 1,
+        "charaID": "chr901600",
+        "overWriteCharaNameId": "name_qsb100301_0901",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 8685.0,
+              "Y": -3277.1,
+              "Z": 144.7,
+              "W": -41.0
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND10L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0901_chr901600"
+      }
+    },
+    {
+      "Key": "qsb100400_0a01_chr900f00",
+      "Value": {
+        "ID": "qsb100400_0a01_chr900f00",
+        "npcID": "qsb100400_0a01_chr900f00",
+        "npcType": 1,
+        "charaID": "chr900f00",
+        "overWriteCharaNameId": "name_qsb100301_0a01",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": -11648.5,
+              "Y": 9226.5,
+              "Z": 120.2,
+              "W": -37.6
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_Phase_Greater",
+                "arg": [
+                  {
+                    "m_offset": 225,
+                    "m_dataSize": 4
+                  }
+                ]
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [
+              {
+                "Type": 0,
+                "ID": "STAND7L"
+              }
+            ],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "qsb100400_0a01_chr900f00"
+      }
+    },
+    {
+      "Key": "Map_100400_retire_exploration_chr100400_01",
+      "Value": {
+        "ID": "Map_100400_retire_exploration_chr100400_01",
+        "npcID": "Map_100400_retire_exploration_chr100400_01",
+        "npcType": 1,
+        "charaID": "chr100400",
+        "overWriteCharaNameId": "None",
+        "overWriteIconId": "None",
+        "locationOffsetType": 0,
+        "appearInfoArray": [
+          {
+            "Location": {
+              "X": 17298.5,
+              "Y": -7683.4,
+              "Z": 254.7,
+              "W": 126.6
+            },
+            "rpgTargetInfo": {
+              "targetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "offsetPos": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0,
+                "W": 1.0
+              },
+              "isOverride": false,
+              "isOverrideShape": false,
+              "shapeType": 0,
+              "Radius": 0.0,
+              "BoxExtent": {
+                "X": 0.0,
+                "Y": 0.0,
+                "Z": 0.0
+              }
+            },
+            "cond": [
+              {
+                "Cmd": "CondCmd_IsOnline_True",
+                "arg": []
+              }
+            ],
+            "bDisablePlayCharaWaitMotion": false,
+            "animOverrides": [],
+            "bDisableLookToPlayer": false,
+            "bOnlineApper": true
+          }
+        ],
+        "npcTalkId": "common_retire_exploration_chr100400_01"
+      }
+    }
+  ],
+  "m_autoBin": [
+    1,
+    31,
+    244,
+    0,
+    230,
+    0,
+    0,
+    0,
+    16,
+    0,
+    0,
+    0,
+    18,
+    2,
+    0,
+    0,
+    50,
+    216,
+    234,
+    0,
+    0,
+    50,
+    226,
+    234,
+    0,
+    0,
+    50,
+    242,
+    17,
+    1,
+    0,
+    50,
+    252,
+    17,
+    1,
+    0,
+    50,
+    160,
+    195,
+    0,
+    0,
+    50,
+    170,
+    195,
+    0,
+    0,
+    50,
+    180,
+    195,
+    0,
+    0,
+    50,
+    170,
+    195,
+    0,
+    0,
+    50,
+    180,
+    195,
+    0,
+    0,
+    50,
+    170,
+    195,
+    0,
+    0,
+    50,
+    160,
+    195,
+    0,
+    0,
+    50,
+    180,
+    195,
+    0,
+    0,
+    50,
+    230,
+    195,
+    0,
+    0,
+    52,
+    2,
+    0,
+    0,
+    0,
+    50,
+    220,
+    195,
+    0,
+    0,
+    50,
+    230,
+    195,
+    0,
+    0,
+    52,
+    10,
+    0,
+    0,
+    0,
+    50,
+    250,
+    195,
+    0,
+    0,
+    52,
+    18,
+    0,
+    0,
+    0,
+    52,
+    26,
+    0,
+    0,
+    0,
+    52,
+    34,
+    0,
+    0,
+    0,
+    52,
+    42,
+    0,
+    0,
+    0,
+    52,
+    50,
+    0,
+    0,
+    0,
+    52,
+    58,
+    0,
+    0,
+    0,
+    50,
+    15,
+    0,
+    0,
+    0,
+    50,
+    20,
+    0,
+    0,
+    0,
+    52,
+    73,
+    0,
+    0,
+    0,
+    52,
+    81,
+    0,
+    0,
+    0,
+    50,
+    30,
+    0,
+    0,
+    0,
+    50,
+    40,
+    0,
+    0,
+    0,
+    52,
+    96,
+    0,
+    0,
+    0,
+    50,
+    5,
+    0,
+    0,
+    0,
+    52,
+    111,
+    0,
+    0,
+    0,
+    50,
+    255,
+    0,
+    0,
+    0,
+    52,
+    126,
+    0,
+    0,
+    0,
+    52,
+    134,
+    0,
+    0,
+    0,
+    52,
+    142,
+    0,
+    0,
+    0,
+    52,
+    150,
+    0,
+    0,
+    0,
+    50,
+    90,
+    195,
+    0,
+    0,
+    50,
+    14,
+    196,
+    0,
+    0,
+    50,
+    90,
+    195,
+    0,
+    0,
+    50,
+    14,
+    196,
+    0,
+    0,
+    50,
+    90,
+    195,
+    0,
+    0,
+    50,
+    14,
+    196,
+    0,
+    0,
+    50,
+    140,
+    195,
+    0,
+    0,
+    50,
+    220,
+    195,
+    0,
+    0
+  ],
+  "m_autoStr": "＊\u0000area_02\u0000area_01\u0000area_01\u0000area_04\u0000area_03\u0000area_04\u0000area_01\u0000qsa_life14_001\u0000area_01\u0000qsa_life14_001\u0000qsa_life14_001\u0000qsa_life14_001\u0000area_03\u0000area_04\u0000area_04\u0000area_04\u0000"
+}

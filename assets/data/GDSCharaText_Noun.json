@@ -1,0 +1,8066 @@
+{
+  "m_dataMap": [
+    {
+      "Key": "name_avt000000",
+      "Value": {
+        "ID": "name_avt000000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lif"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100500_00",
+      "Value": {
+        "ID": "name_chr100500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hagram"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100100",
+      "Value": {
+        "ID": "name_chr100100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100300",
+      "Value": {
+        "ID": "name_chr100300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ranoah"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100301",
+      "Value": {
+        "ID": "name_chr100301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Skelegon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100302",
+      "Value": {
+        "ID": "name_chr100302",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bone Dragon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100400",
+      "Value": {
+        "ID": "name_chr100400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Trip"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100403",
+      "Value": {
+        "ID": "name_chr100403",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Trip"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100500",
+      "Value": {
+        "ID": "name_chr100500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hagram"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100503",
+      "Value": {
+        "ID": "name_chr100503",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Guardian Hagram"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100502",
+      "Value": {
+        "ID": "name_chr100502",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Security Hagram"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100600",
+      "Value": {
+        "ID": "name_chr100600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Frajeel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100700",
+      "Value": {
+        "ID": "name_chr100700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paulette"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr100900",
+      "Value": {
+        "ID": "name_chr100900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mira"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101000",
+      "Value": {
+        "ID": "name_chr101000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dark Dragon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101001",
+      "Value": {
+        "ID": "name_chr101001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dark Tiny Dragon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101100",
+      "Value": {
+        "ID": "name_chr101100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Growler"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101101",
+      "Value": {
+        "ID": "name_chr101101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Growler"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101102",
+      "Value": {
+        "ID": "name_chr101102",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Growler"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101103",
+      "Value": {
+        "ID": "name_chr101103",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Growler"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101200",
+      "Value": {
+        "ID": "name_chr101200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Edward"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101201",
+      "Value": {
+        "ID": "name_chr101201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Edward"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101202",
+      "Value": {
+        "ID": "name_chr101202",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Edward"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101203",
+      "Value": {
+        "ID": "name_chr101203",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Edward"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101300",
+      "Value": {
+        "ID": "name_chr101300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Xernes"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101400",
+      "Value": {
+        "ID": "name_chr101400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Aeshan"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101401",
+      "Value": {
+        "ID": "name_chr101401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Xernes"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101402",
+      "Value": {
+        "ID": "name_chr101402",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Xernes"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101403",
+      "Value": {
+        "ID": "name_chr101403",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Xernes"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101500",
+      "Value": {
+        "ID": "name_chr101500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101501",
+      "Value": {
+        "ID": "name_chr101501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Carla"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101600",
+      "Value": {
+        "ID": "name_chr101600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr101700",
+      "Value": {
+        "ID": "name_chr101700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Guardian Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000100",
+      "Value": {
+        "ID": "name_chr000100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Laura"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000200",
+      "Value": {
+        "ID": "name_chr000200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Glenn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000300",
+      "Value": {
+        "ID": "name_chr000300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Leilah"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000400",
+      "Value": {
+        "ID": "name_chr000400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Colin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000500",
+      "Value": {
+        "ID": "name_chr000500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Olivia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000600",
+      "Value": {
+        "ID": "name_chr000600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Daemon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000700",
+      "Value": {
+        "ID": "name_chr000700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Odin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000800",
+      "Value": {
+        "ID": "name_chr000800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Yuelia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000900",
+      "Value": {
+        "ID": "name_chr000900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shea"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000a00",
+      "Value": {
+        "ID": "name_chr000a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Duglas"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000b00",
+      "Value": {
+        "ID": "name_chr000b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Isaac"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000c00",
+      "Value": {
+        "ID": "name_chr000c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Monika"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000d00",
+      "Value": {
+        "ID": "name_chr000d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chakpo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000e00",
+      "Value": {
+        "ID": "name_chr000e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mustang"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000f00",
+      "Value": {
+        "ID": "name_chr000f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jake"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001000",
+      "Value": {
+        "ID": "name_chr001000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hilda"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001100",
+      "Value": {
+        "ID": "name_chr001100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fang"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001200",
+      "Value": {
+        "ID": "name_chr001200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001300",
+      "Value": {
+        "ID": "name_chr001300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rouge"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001400",
+      "Value": {
+        "ID": "name_chr001400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fern"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001500",
+      "Value": {
+        "ID": "name_chr001500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hawke"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001600",
+      "Value": {
+        "ID": "name_chr001600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jerry"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001700",
+      "Value": {
+        "ID": "name_chr001700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cliff"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001800",
+      "Value": {
+        "ID": "name_chr001800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hazel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001900",
+      "Value": {
+        "ID": "name_chr001900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sloane"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001a00",
+      "Value": {
+        "ID": "name_chr001a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Grantz"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001b00",
+      "Value": {
+        "ID": "name_chr001b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sylvia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001c00",
+      "Value": {
+        "ID": "name_chr001c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bearhart"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001d00",
+      "Value": {
+        "ID": "name_chr001d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Orlando"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001e00",
+      "Value": {
+        "ID": "name_chr001e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ahab"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001f00",
+      "Value": {
+        "ID": "name_chr001f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Teruha"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002000",
+      "Value": {
+        "ID": "name_chr002000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bray"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002100",
+      "Value": {
+        "ID": "name_chr002100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Magmia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002200",
+      "Value": {
+        "ID": "name_chr002200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ian"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002300",
+      "Value": {
+        "ID": "name_chr002300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cormell"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002400",
+      "Value": {
+        "ID": "name_chr002400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cherry"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002500",
+      "Value": {
+        "ID": "name_chr002500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Kunugi"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002600",
+      "Value": {
+        "ID": "name_chr002600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Klaus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002700",
+      "Value": {
+        "ID": "name_chr002700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Taylor"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002800",
+      "Value": {
+        "ID": "name_chr002800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Allan"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002900",
+      "Value": {
+        "ID": "name_chr002900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Nommie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002a00",
+      "Value": {
+        "ID": "name_chr002a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Flamel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002b00",
+      "Value": {
+        "ID": "name_chr002b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sophie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002c00",
+      "Value": {
+        "ID": "name_chr002c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Demiel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002d00",
+      "Value": {
+        "ID": "name_chr002d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pino"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002e00",
+      "Value": {
+        "ID": "name_chr002e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pierre"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002f00",
+      "Value": {
+        "ID": "name_chr002f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Roisin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003000",
+      "Value": {
+        "ID": "name_chr003000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Edward"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003100",
+      "Value": {
+        "ID": "name_chr003100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Kikyo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003200",
+      "Value": {
+        "ID": "name_chr003200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Meime"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003300",
+      "Value": {
+        "ID": "name_chr003300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Noelia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003400",
+      "Value": {
+        "ID": "name_chr003400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Butch"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_obj060000_00",
+      "Value": {
+        "ID": "name_obj060000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_obj060001_00",
+      "Value": {
+        "ID": "name_obj060001_00",
+        "textInfo": []
+      }
+    },
+    {
+      "Key": "name_obj060004_00",
+      "Value": {
+        "ID": "name_obj060004_00",
+        "textInfo": []
+      }
+    },
+    {
+      "Key": "name_deposit_00",
+      "Value": {
+        "ID": "name_deposit_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ore Deposit"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tree_00",
+      "Value": {
+        "ID": "name_tree_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901f00",
+      "Value": {
+        "ID": "name_chr901f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cuna"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902000",
+      "Value": {
+        "ID": "name_chr902000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Marcen"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902100",
+      "Value": {
+        "ID": "name_chr902100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Arche"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902200",
+      "Value": {
+        "ID": "name_chr902200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Oz"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902300",
+      "Value": {
+        "ID": "name_chr902300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Meralda"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902400",
+      "Value": {
+        "ID": "name_chr902400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Leela"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902500",
+      "Value": {
+        "ID": "name_chr902500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gramps"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902600",
+      "Value": {
+        "ID": "name_chr902600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hammerhead"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902700",
+      "Value": {
+        "ID": "name_chr902700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Daiku"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902800",
+      "Value": {
+        "ID": "name_chr902800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sue"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902900",
+      "Value": {
+        "ID": "name_chr902900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cocott"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902a00",
+      "Value": {
+        "ID": "name_chr902a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chemmel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr902b00",
+      "Value": {
+        "ID": "name_chr902b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Inaji"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900100",
+      "Value": {
+        "ID": "name_chr900100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900200",
+      "Value": {
+        "ID": "name_chr900200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900300",
+      "Value": {
+        "ID": "name_chr900300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Old Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900400",
+      "Value": {
+        "ID": "name_chr900400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Old Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900500",
+      "Value": {
+        "ID": "name_chr900500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Child"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900600",
+      "Value": {
+        "ID": "name_chr900600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Child"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900800",
+      "Value": {
+        "ID": "name_chr900800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900900",
+      "Value": {
+        "ID": "name_chr900900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plushling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900b00",
+      "Value": {
+        "ID": "name_chr900b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900c00",
+      "Value": {
+        "ID": "name_chr900c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hunter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr900f00",
+      "Value": {
+        "ID": "name_chr900f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cook"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901000",
+      "Value": {
+        "ID": "name_chr901000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Artist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901100",
+      "Value": {
+        "ID": "name_chr901100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Farmer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901200",
+      "Value": {
+        "ID": "name_chr901200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Farmer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901300",
+      "Value": {
+        "ID": "name_chr901300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Merchant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901400",
+      "Value": {
+        "ID": "name_chr901400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Merchant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901500",
+      "Value": {
+        "ID": "name_chr901500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901600",
+      "Value": {
+        "ID": "name_chr901600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901900",
+      "Value": {
+        "ID": "name_chr901900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901a00",
+      "Value": {
+        "ID": "name_chr901a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dog"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr901b00",
+      "Value": {
+        "ID": "name_chr901b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fighter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903000",
+      "Value": {
+        "ID": "name_chr903000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903100",
+      "Value": {
+        "ID": "name_chr903100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903200",
+      "Value": {
+        "ID": "name_chr903200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Auntie Anne"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903300",
+      "Value": {
+        "ID": "name_chr903300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903400",
+      "Value": {
+        "ID": "name_chr903400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mr. Torgide"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903500",
+      "Value": {
+        "ID": "name_chr903500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lucy Lips"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903600",
+      "Value": {
+        "ID": "name_chr903600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lyle Lips"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903700",
+      "Value": {
+        "ID": "name_chr903700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Boyle"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903800",
+      "Value": {
+        "ID": "name_chr903800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cooke"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903900",
+      "Value": {
+        "ID": "name_chr903900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Colm"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903a00",
+      "Value": {
+        "ID": "name_chr903a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Marco"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903b00",
+      "Value": {
+        "ID": "name_chr903b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Polo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904300",
+      "Value": {
+        "ID": "name_chr904300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shady Person"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904400",
+      "Value": {
+        "ID": "name_chr904400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Leafah"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903f00",
+      "Value": {
+        "ID": "name_chr903f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Celebrity"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904000",
+      "Value": {
+        "ID": "name_chr904000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Celebrity"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904200",
+      "Value": {
+        "ID": "name_chr904200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Citizen"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903e00",
+      "Value": {
+        "ID": "name_chr903e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Leafe"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904a00",
+      "Value": {
+        "ID": "name_chr904a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crochette"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904b00",
+      "Value": {
+        "ID": "name_chr904b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chantille"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904c00",
+      "Value": {
+        "ID": "name_chr904c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sardino"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904d00",
+      "Value": {
+        "ID": "name_chr904d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pastelle"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904e00",
+      "Value": {
+        "ID": "name_chr904e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Beryl"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr904f00",
+      "Value": {
+        "ID": "name_chr904f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Clank"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905000",
+      "Value": {
+        "ID": "name_chr905000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tabarri"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905100",
+      "Value": {
+        "ID": "name_chr905100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Raggdol"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905200",
+      "Value": {
+        "ID": "name_chr905200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mezza"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905300",
+      "Value": {
+        "ID": "name_chr905300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chopin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905400",
+      "Value": {
+        "ID": "name_chr905400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plainn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905500",
+      "Value": {
+        "ID": "name_chr905500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Luna"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905600",
+      "Value": {
+        "ID": "name_chr905600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Toto"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905700",
+      "Value": {
+        "ID": "name_chr905700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Teluce"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905800",
+      "Value": {
+        "ID": "name_chr905800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Arsenio"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905900",
+      "Value": {
+        "ID": "name_chr905900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gardon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr905a00",
+      "Value": {
+        "ID": "name_chr905a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lanche"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906000",
+      "Value": {
+        "ID": "name_chr906000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906001",
+      "Value": {
+        "ID": "name_chr906001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906002",
+      "Value": {
+        "ID": "name_chr906002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906003",
+      "Value": {
+        "ID": "name_chr906003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906004",
+      "Value": {
+        "ID": "name_chr906004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906005",
+      "Value": {
+        "ID": "name_chr906005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906006",
+      "Value": {
+        "ID": "name_chr906006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906007",
+      "Value": {
+        "ID": "name_chr906007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906008",
+      "Value": {
+        "ID": "name_chr906008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906009",
+      "Value": {
+        "ID": "name_chr906009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr90600a",
+      "Value": {
+        "ID": "name_chr90600a",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr90600b",
+      "Value": {
+        "ID": "name_chr90600b",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr90600c",
+      "Value": {
+        "ID": "name_chr90600c",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr90600d",
+      "Value": {
+        "ID": "name_chr90600d",
+        "textInfo": [
+          {
+            "nounSingularForm_en": ""
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906100",
+      "Value": {
+        "ID": "name_chr906100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Johannes"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906200",
+      "Value": {
+        "ID": "name_chr906200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dante"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr906300",
+      "Value": {
+        "ID": "name_chr906300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lazy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr903e03",
+      "Value": {
+        "ID": "name_chr903e03",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Maruo's Mother"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr_camel_00",
+      "Value": {
+        "ID": "name_chr_camel_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Camel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm101001",
+      "Value": {
+        "ID": "name_enm101001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hearhare"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm101003",
+      "Value": {
+        "ID": "name_enm101003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snowflake Bunny"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm101004",
+      "Value": {
+        "ID": "name_enm101004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Killer Bunny"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102001",
+      "Value": {
+        "ID": "name_enm102001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "White Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102002",
+      "Value": {
+        "ID": "name_enm102002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rowdy Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102003",
+      "Value": {
+        "ID": "name_enm102003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Eternia Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102004",
+      "Value": {
+        "ID": "name_enm102004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sheep"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102005",
+      "Value": {
+        "ID": "name_enm102005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "King Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102006",
+      "Value": {
+        "ID": "name_enm102006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cashmeer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102007",
+      "Value": {
+        "ID": "name_enm102007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Goldmeer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102008",
+      "Value": {
+        "ID": "name_enm102008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Legendary Don Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm102009",
+      "Value": {
+        "ID": "name_enm102009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Black Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm103002",
+      "Value": {
+        "ID": "name_enm103002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Forest Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm103003",
+      "Value": {
+        "ID": "name_enm103003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "White Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm103005",
+      "Value": {
+        "ID": "name_enm103005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cave Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm103006",
+      "Value": {
+        "ID": "name_enm103006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Black Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm103007",
+      "Value": {
+        "ID": "name_enm103007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm103009",
+      "Value": {
+        "ID": "name_enm103009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pyro Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10300a",
+      "Value": {
+        "ID": "name_enm10300a",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fiery Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104001",
+      "Value": {
+        "ID": "name_enm104001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Red Wolf"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104003",
+      "Value": {
+        "ID": "name_enm104003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Grotto Wolf"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104004",
+      "Value": {
+        "ID": "name_enm104004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Alpha Coyote"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104005",
+      "Value": {
+        "ID": "name_enm104005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jackal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104006",
+      "Value": {
+        "ID": "name_enm104006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Wolf"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104007",
+      "Value": {
+        "ID": "name_enm104007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Swindawolf"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm104008",
+      "Value": {
+        "ID": "name_enm104008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Swindaboss"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm105002",
+      "Value": {
+        "ID": "name_enm105002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Boor Bear Boss"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm105004",
+      "Value": {
+        "ID": "name_enm105004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Blizzbear"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm105005",
+      "Value": {
+        "ID": "name_enm105005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Killer Bear"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm105006",
+      "Value": {
+        "ID": "name_enm105006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Don"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm107001",
+      "Value": {
+        "ID": "name_enm107001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm107002",
+      "Value": {
+        "ID": "name_enm107002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Buffalo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm107003",
+      "Value": {
+        "ID": "name_enm107003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Taurus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm107004",
+      "Value": {
+        "ID": "name_enm107004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wild Buffalo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm108001",
+      "Value": {
+        "ID": "name_enm108001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Applejack Ape"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm108002",
+      "Value": {
+        "ID": "name_enm108002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Applejack Gorilla"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm108003",
+      "Value": {
+        "ID": "name_enm108003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Apegore"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm108004",
+      "Value": {
+        "ID": "name_enm108004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Burly Gorilla"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm109001",
+      "Value": {
+        "ID": "name_enm109001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crystal Behemoth"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm109002",
+      "Value": {
+        "ID": "name_enm109002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Great Chimera"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm109003",
+      "Value": {
+        "ID": "name_enm109003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Behemoth"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10a001",
+      "Value": {
+        "ID": "name_enm10a001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sandzard"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10a002",
+      "Value": {
+        "ID": "name_enm10a002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tunoco Lizard"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10a004",
+      "Value": {
+        "ID": "name_enm10a004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Greater Sandzard"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10a005",
+      "Value": {
+        "ID": "name_enm10a005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gemeleon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10a006",
+      "Value": {
+        "ID": "name_enm10a006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Licky Gecko"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10a007",
+      "Value": {
+        "ID": "name_enm10a007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Great Gemeleon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10b001",
+      "Value": {
+        "ID": "name_enm10b001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Umbral Runner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10b002",
+      "Value": {
+        "ID": "name_enm10b002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "White Runner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10c001",
+      "Value": {
+        "ID": "name_enm10c001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mohawkasaurus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10c002",
+      "Value": {
+        "ID": "name_enm10c002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lord of Death"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10c003",
+      "Value": {
+        "ID": "name_enm10c003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Tyrant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10c004",
+      "Value": {
+        "ID": "name_enm10c004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lord of Curses"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d001",
+      "Value": {
+        "ID": "name_enm10d001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Grass Serpent"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d002",
+      "Value": {
+        "ID": "name_enm10d002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Giant Grass Serpent"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d003",
+      "Value": {
+        "ID": "name_enm10d003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bloom Serpent"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d004",
+      "Value": {
+        "ID": "name_enm10d004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rock Serpent"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d005",
+      "Value": {
+        "ID": "name_enm10d005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Greater Rock Serpent"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d006",
+      "Value": {
+        "ID": "name_enm10d006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "King Cobra"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10d007",
+      "Value": {
+        "ID": "name_enm10d007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Flame Serpent"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10e001",
+      "Value": {
+        "ID": "name_enm10e001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tortortoise"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10e002",
+      "Value": {
+        "ID": "name_enm10e002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Steel Tortortoise"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10e003",
+      "Value": {
+        "ID": "name_enm10e003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fortoise"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10e004",
+      "Value": {
+        "ID": "name_enm10e004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Tortortoise"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10e005",
+      "Value": {
+        "ID": "name_enm10e005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Terror of the Tides"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10f001",
+      "Value": {
+        "ID": "name_enm10f001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Splash Frog"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm10f002",
+      "Value": {
+        "ID": "name_enm10f002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tropic Toad"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm111001",
+      "Value": {
+        "ID": "name_enm111001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bitey Shark"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm111002",
+      "Value": {
+        "ID": "name_enm111002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sandshark"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm111003",
+      "Value": {
+        "ID": "name_enm111003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Shark"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113001",
+      "Value": {
+        "ID": "name_enm113001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Carroty"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113002",
+      "Value": {
+        "ID": "name_enm113002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Radishy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113003",
+      "Value": {
+        "ID": "name_enm113003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Corny"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113004",
+      "Value": {
+        "ID": "name_enm113004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Radishella"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113005",
+      "Value": {
+        "ID": "name_enm113005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Carrotella"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113006",
+      "Value": {
+        "ID": "name_enm113006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cornella"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113007",
+      "Value": {
+        "ID": "name_enm113007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Millennium Corny"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113008",
+      "Value": {
+        "ID": "name_enm113008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Frosty Radishy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113009",
+      "Value": {
+        "ID": "name_enm113009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Frosty Radishella"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113010",
+      "Value": {
+        "ID": "name_enm113010",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Carroty"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm113011",
+      "Value": {
+        "ID": "name_enm113011",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Carrotella"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm115001",
+      "Value": {
+        "ID": "name_enm115001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pseudo Oak"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm115003",
+      "Value": {
+        "ID": "name_enm115003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pseudo Cherry"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm116001",
+      "Value": {
+        "ID": "name_enm116001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mammoth"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm116002",
+      "Value": {
+        "ID": "name_enm116002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "King Mammoth"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm117001",
+      "Value": {
+        "ID": "name_enm117001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mimic"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm117002",
+      "Value": {
+        "ID": "name_enm117002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pandora's Box"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118001",
+      "Value": {
+        "ID": "name_enm118001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snow Beetle Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118002",
+      "Value": {
+        "ID": "name_enm118002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Greater Beetle Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118003",
+      "Value": {
+        "ID": "name_enm118003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Greater Sea Beetle Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118004",
+      "Value": {
+        "ID": "name_enm118004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Proto Beetle Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118005",
+      "Value": {
+        "ID": "name_enm118005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fluff Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118006",
+      "Value": {
+        "ID": "name_enm118006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Star Beetle Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm118007",
+      "Value": {
+        "ID": "name_enm118007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ancient Beetle Baller"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119001",
+      "Value": {
+        "ID": "name_enm119001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mini Spooky"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119002",
+      "Value": {
+        "ID": "name_enm119002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Spooky"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119003",
+      "Value": {
+        "ID": "name_enm119003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Big Spooky"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119004",
+      "Value": {
+        "ID": "name_enm119004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Royal Spooky"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119005",
+      "Value": {
+        "ID": "name_enm119005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wicked Spooky"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119006",
+      "Value": {
+        "ID": "name_enm119006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bouldergeist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm119007",
+      "Value": {
+        "ID": "name_enm119007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ghohohost"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11a001",
+      "Value": {
+        "ID": "name_enm11a001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Iron Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11a002",
+      "Value": {
+        "ID": "name_enm11a002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sand Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11a003",
+      "Value": {
+        "ID": "name_enm11a003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gaia Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11a004",
+      "Value": {
+        "ID": "name_enm11a004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crystal Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11a005",
+      "Value": {
+        "ID": "name_enm11a005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Stone Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11a006",
+      "Value": {
+        "ID": "name_enm11a006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Guardian Golem"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11b001",
+      "Value": {
+        "ID": "name_enm11b001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sand Spider"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11b002",
+      "Value": {
+        "ID": "name_enm11b002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Greater Sand Spider"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11b003",
+      "Value": {
+        "ID": "name_enm11b003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hill Spider"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11b004",
+      "Value": {
+        "ID": "name_enm11b004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gloom Spider"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11d001",
+      "Value": {
+        "ID": "name_enm11d001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Worker Bee"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11d002",
+      "Value": {
+        "ID": "name_enm11d002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Boss Bee"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11d003",
+      "Value": {
+        "ID": "name_enm11d003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bigbee"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11d005",
+      "Value": {
+        "ID": "name_enm11d005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Killer Hornet"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11d006",
+      "Value": {
+        "ID": "name_enm11d006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Peach Bee"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11e001",
+      "Value": {
+        "ID": "name_enm11e001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chicken"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11e002",
+      "Value": {
+        "ID": "name_enm11e002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Razorbeak"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11e003",
+      "Value": {
+        "ID": "name_enm11e003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ancient Razorbeak"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11e004",
+      "Value": {
+        "ID": "name_enm11e004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crimson Razorbeak"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11f001",
+      "Value": {
+        "ID": "name_enm11f001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cave Bat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11f002",
+      "Value": {
+        "ID": "name_enm11f002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Feral Bat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm11f003",
+      "Value": {
+        "ID": "name_enm11f003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Vampire Bat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm123001",
+      "Value": {
+        "ID": "name_enm123001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bigbeak"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm123003",
+      "Value": {
+        "ID": "name_enm123003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tunoco Quetzal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm124001",
+      "Value": {
+        "ID": "name_enm124001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Napdragon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm124002",
+      "Value": {
+        "ID": "name_enm124002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Prairie Dragon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm125001",
+      "Value": {
+        "ID": "name_enm125001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Stelleroid"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm125003",
+      "Value": {
+        "ID": "name_enm125003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Meteoroid"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm125004",
+      "Value": {
+        "ID": "name_enm125004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cave Star"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm126001",
+      "Value": {
+        "ID": "name_enm126001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Haniwa Tribe"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm126002",
+      "Value": {
+        "ID": "name_enm126002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Head Haniwa"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm127001",
+      "Value": {
+        "ID": "name_enm127001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Weedling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm127002",
+      "Value": {
+        "ID": "name_enm127002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Killer Weedling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm127003",
+      "Value": {
+        "ID": "name_enm127003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "King Weedling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm127004",
+      "Value": {
+        "ID": "name_enm127004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crimson Weedling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm128001",
+      "Value": {
+        "ID": "name_enm128001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gear-Xernes"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_ico04050200",
+      "Value": {
+        "ID": "name_ico04050200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Training Dummy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_enm999999",
+      "Value": {
+        "ID": "name_enm999999",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "AI Check 1"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000101",
+      "Value": {
+        "ID": "name_chr000101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Free-Spirited Cap"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000201",
+      "Value": {
+        "ID": "name_chr000201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dragonslayer's Sword"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000301",
+      "Value": {
+        "ID": "name_chr000301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Homely Flower Basket"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000401",
+      "Value": {
+        "ID": "name_chr000401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fortune Cat Doll"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000501",
+      "Value": {
+        "ID": "name_chr000501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pirate Princess Flag"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000601",
+      "Value": {
+        "ID": "name_chr000601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Maajik Daemon Statue"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000701",
+      "Value": {
+        "ID": "name_chr000701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Black Knight's Sword"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000901",
+      "Value": {
+        "ID": "name_chr000901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wooly Chair"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000a01",
+      "Value": {
+        "ID": "name_chr000a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sturdy Wheelbarrow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000b01",
+      "Value": {
+        "ID": "name_chr000b01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Angler's Hood"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000c01",
+      "Value": {
+        "ID": "name_chr000c01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Soothing Basket"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000d01",
+      "Value": {
+        "ID": "name_chr000d01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cook O'Lantern"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000e01",
+      "Value": {
+        "ID": "name_chr000e01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mustachioed Helmet"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr000f01",
+      "Value": {
+        "ID": "name_chr000f01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Knight Flan"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001001",
+      "Value": {
+        "ID": "name_chr001001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Easy-Going Shield"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001101",
+      "Value": {
+        "ID": "name_chr001101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Black Wolf Doll"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001201",
+      "Value": {
+        "ID": "name_chr001201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snowy Idol"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001301",
+      "Value": {
+        "ID": "name_chr001301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plushling Lady Doll"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001401",
+      "Value": {
+        "ID": "name_chr001401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bereted Target"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001501",
+      "Value": {
+        "ID": "name_chr001501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Breezy Weathervane"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001601",
+      "Value": {
+        "ID": "name_chr001601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Corny Bottle"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001701",
+      "Value": {
+        "ID": "name_chr001701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Elegant Icewolf Statue"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001801",
+      "Value": {
+        "ID": "name_chr001801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Witch's Broom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001901",
+      "Value": {
+        "ID": "name_chr001901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sleepy Pillow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001a01",
+      "Value": {
+        "ID": "name_chr001a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cheery Wheat Juice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001b01",
+      "Value": {
+        "ID": "name_chr001b01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cold Crystal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001c01",
+      "Value": {
+        "ID": "name_chr001c01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hefty Bear Carving"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001d01",
+      "Value": {
+        "ID": "name_chr001d01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Country Wood Pot"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001e01",
+      "Value": {
+        "ID": "name_chr001e01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Old Man Anchor"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr001f01",
+      "Value": {
+        "ID": "name_chr001f01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Graceful Carp Banner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002001",
+      "Value": {
+        "ID": "name_chr002001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Blue Demon's Tile"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002101",
+      "Value": {
+        "ID": "name_chr002101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Quirky Hammer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002201",
+      "Value": {
+        "ID": "name_chr002201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fresh-Faced Helm"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002301",
+      "Value": {
+        "ID": "name_chr002301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cash Cat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002401",
+      "Value": {
+        "ID": "name_chr002401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fluffy Beaver Doll"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002501",
+      "Value": {
+        "ID": "name_chr002501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Odd Dresser"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002601",
+      "Value": {
+        "ID": "name_chr002601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dandy Bat Hat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002701",
+      "Value": {
+        "ID": "name_chr002701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wholesome Yarn Basket"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002801",
+      "Value": {
+        "ID": "name_chr002801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Royal Yummy Stew"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002901",
+      "Value": {
+        "ID": "name_chr002901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snacky Pie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002a01",
+      "Value": {
+        "ID": "name_chr002a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Big Ol' Bomb"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002b01",
+      "Value": {
+        "ID": "name_chr002b01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Secretive Mask"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002c01",
+      "Value": {
+        "ID": "name_chr002c01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lovey-Dovey Lamp"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002d01",
+      "Value": {
+        "ID": "name_chr002d01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Leafy Watering Can"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002e01",
+      "Value": {
+        "ID": "name_chr002e01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Big Brother Bust"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr002f01",
+      "Value": {
+        "ID": "name_chr002f01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Scarecorn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003101",
+      "Value": {
+        "ID": "name_chr003101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Graceful Fan"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003201",
+      "Value": {
+        "ID": "name_chr003201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman's Painting"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_chr003401",
+      "Value": {
+        "ID": "name_chr003401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Little Brother Bust"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000100_00",
+      "Value": {
+        "ID": "name_story_000100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "???"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000300_00",
+      "Value": {
+        "ID": "name_story_000300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Everyone"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000400_00",
+      "Value": {
+        "ID": "name_story_000400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Little Girl"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000500_00",
+      "Value": {
+        "ID": "name_story_000500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Village Child"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000600_00",
+      "Value": {
+        "ID": "name_story_000600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Translation Device"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000700_00",
+      "Value": {
+        "ID": "name_story_000700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Polturnip"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000800_00",
+      "Value": {
+        "ID": "name_story_000800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Villager's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_000900_00",
+      "Value": {
+        "ID": "name_story_000900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Machine Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001000_00",
+      "Value": {
+        "ID": "name_story_001000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Leafe"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001100_00",
+      "Value": {
+        "ID": "name_story_001100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Clefton & Brighton"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001200_00",
+      "Value": {
+        "ID": "name_story_001200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mother"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001300_00",
+      "Value": {
+        "ID": "name_story_001300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cheering"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001400_00",
+      "Value": {
+        "ID": "name_story_001400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Audience"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001500_00",
+      "Value": {
+        "ID": "name_story_001500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Audience"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001600_00",
+      "Value": {
+        "ID": "name_story_001600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Soldier"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001700_00",
+      "Value": {
+        "ID": "name_story_001700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Moderator"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001800_00",
+      "Value": {
+        "ID": "name_story_001800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Skelegon's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_001900_00",
+      "Value": {
+        "ID": "name_story_001900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "God of Evil"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002000_00",
+      "Value": {
+        "ID": "name_story_002000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Luna & Plainn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002100_00",
+      "Value": {
+        "ID": "name_story_002100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Meralda & Beryl"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002200_00",
+      "Value": {
+        "ID": "name_story_002200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cocott & Lanche"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002300_00",
+      "Value": {
+        "ID": "name_story_002300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Students"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002400_00",
+      "Value": {
+        "ID": "name_story_002400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Spirit(?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002500_00",
+      "Value": {
+        "ID": "name_story_002500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Forest Goddess"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002600_00",
+      "Value": {
+        "ID": "name_story_002600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "God of Fishing(?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002700_00",
+      "Value": {
+        "ID": "name_story_002700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mama(?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002800_00",
+      "Value": {
+        "ID": "name_story_002800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mato"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_002900_00",
+      "Value": {
+        "ID": "name_story_002900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plushling Host"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003000_00",
+      "Value": {
+        "ID": "name_story_003000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Peera"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003100_00",
+      "Value": {
+        "ID": "name_story_003100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Monali"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003200_00",
+      "Value": {
+        "ID": "name_story_003200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Huki"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003300_00",
+      "Value": {
+        "ID": "name_story_003300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Elder Tree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003400_00",
+      "Value": {
+        "ID": "name_story_003400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Clefton"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003500_00",
+      "Value": {
+        "ID": "name_story_003500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Brighton"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003600_00",
+      "Value": {
+        "ID": "name_story_003600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cawlette"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003700_00",
+      "Value": {
+        "ID": "name_story_003700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Monster"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003800_00",
+      "Value": {
+        "ID": "name_story_003800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "King Erik"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_003900_00",
+      "Value": {
+        "ID": "name_story_003900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Goddess Celestia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004100_00",
+      "Value": {
+        "ID": "name_story_004100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Receptionist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004200_00",
+      "Value": {
+        "ID": "name_story_004200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Seagull"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004300_00",
+      "Value": {
+        "ID": "name_story_004300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Flutter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004400_00",
+      "Value": {
+        "ID": "name_story_004400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Trip's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004500_00",
+      "Value": {
+        "ID": "name_story_004500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Goddess Statue"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004600_00",
+      "Value": {
+        "ID": "name_story_004600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sentin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004700_00",
+      "Value": {
+        "ID": "name_story_004700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Roving Mimic"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004800_00",
+      "Value": {
+        "ID": "name_story_004800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shadow Girl"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_004900_00",
+      "Value": {
+        "ID": "name_story_004900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Edward's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005000_00",
+      "Value": {
+        "ID": "name_story_005000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Carla's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005100_00",
+      "Value": {
+        "ID": "name_story_005100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Don"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005200_00",
+      "Value": {
+        "ID": "name_story_005200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rem's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005300_00",
+      "Value": {
+        "ID": "name_story_005300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pino & ???"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005400_00",
+      "Value": {
+        "ID": "name_story_005400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Aeshan's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005500_00",
+      "Value": {
+        "ID": "name_story_005500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Frajeel's Voice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005600_00",
+      "Value": {
+        "ID": "name_story_005600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Maruo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005700_00",
+      "Value": {
+        "ID": "name_story_005700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Maruo's Mother"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005800_00",
+      "Value": {
+        "ID": "name_story_005800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Youth"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_005900_00",
+      "Value": {
+        "ID": "name_story_005900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gods"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006000_00",
+      "Value": {
+        "ID": "name_story_006000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jerkish Jackal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006100_00",
+      "Value": {
+        "ID": "name_story_006100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plundering Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006200_00",
+      "Value": {
+        "ID": "name_story_006200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wandering Haniwa"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006300_00",
+      "Value": {
+        "ID": "name_story_006300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Cub"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006400_00",
+      "Value": {
+        "ID": "name_story_006400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Madam Chomp"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006500_00",
+      "Value": {
+        "ID": "name_story_006500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Stylish Goddess Statue (?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006600_00",
+      "Value": {
+        "ID": "name_story_006600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Peckish Goddess Statue (?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006700_00",
+      "Value": {
+        "ID": "name_story_006700_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Brave Goddess Statue (?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006800_00",
+      "Value": {
+        "ID": "name_story_006800_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Holy Goddess Statue (?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_006900_00",
+      "Value": {
+        "ID": "name_story_006900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Artsy Goddess Statue (?)"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_001",
+      "Value": {
+        "ID": "name_tower_001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlina"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_002",
+      "Value": {
+        "ID": "name_tower_002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlbert"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_003",
+      "Value": {
+        "ID": "name_tower_003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlius"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_004",
+      "Value": {
+        "ID": "name_tower_004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlilocks"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_005",
+      "Value": {
+        "ID": "name_tower_005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlierre"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_006",
+      "Value": {
+        "ID": "name_tower_006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlelot"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_007",
+      "Value": {
+        "ID": "name_tower_007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googloria"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_008",
+      "Value": {
+        "ID": "name_tower_008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlithy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_009",
+      "Value": {
+        "ID": "name_tower_009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlancia"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_010",
+      "Value": {
+        "ID": "name_tower_010",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlisha"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_011",
+      "Value": {
+        "ID": "name_tower_011",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlolly"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_012",
+      "Value": {
+        "ID": "name_tower_012",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlizabeth"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_013",
+      "Value": {
+        "ID": "name_tower_013",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlenette"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_014",
+      "Value": {
+        "ID": "name_tower_014",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googlonardo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_tower_015",
+      "Value": {
+        "ID": "name_tower_015",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Googleph"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_hokora_01",
+      "Value": {
+        "ID": "name_hokora_01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Right"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_hokora_02",
+      "Value": {
+        "ID": "name_hokora_02",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wrong"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000101",
+      "Value": {
+        "ID": "name_vic000101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tortortoise"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000102",
+      "Value": {
+        "ID": "name_vic000102",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Turtle"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000201",
+      "Value": {
+        "ID": "name_vic000201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Brown Horse"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000202",
+      "Value": {
+        "ID": "name_vic000202",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Black Horse"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000203",
+      "Value": {
+        "ID": "name_vic000203",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "White Horse"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000301",
+      "Value": {
+        "ID": "name_vic000301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Black Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000302",
+      "Value": {
+        "ID": "name_vic000302",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Forest Panther"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000401",
+      "Value": {
+        "ID": "name_vic000401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Camel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000501",
+      "Value": {
+        "ID": "name_vic000501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "White Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000502",
+      "Value": {
+        "ID": "name_vic000502",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "King Woolie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000503",
+      "Value": {
+        "ID": "name_vic000503",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cashmeer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000601",
+      "Value": {
+        "ID": "name_vic000601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "White Runner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000701",
+      "Value": {
+        "ID": "name_vic000701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Taurus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000801",
+      "Value": {
+        "ID": "name_vic000801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Napdragon Cruiser RED"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000802",
+      "Value": {
+        "ID": "name_vic000802",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Napdragon Cruiser BLK"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000901",
+      "Value": {
+        "ID": "name_vic000901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Turboglider"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000702",
+      "Value": {
+        "ID": "name_vic000702",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mini Napdragon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000204",
+      "Value": {
+        "ID": "name_vic000204",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Unicorn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_vic000205",
+      "Value": {
+        "ID": "name_vic000205",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pegasus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_story_010100_900b00_01",
+      "Value": {
+        "ID": "name_story_010100_900b00_01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Vetrun"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_mob_map100400_00",
+      "Value": {
+        "ID": "name_mob_map100400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "\"Lettie\" Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_mob_map100400_01",
+      "Value": {
+        "ID": "name_mob_map100400_01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "\"Lettie\" Lad"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_mob_map100400_02",
+      "Value": {
+        "ID": "name_mob_map100400_02",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crab"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_mob_map500101_00",
+      "Value": {
+        "ID": "name_mob_map500101_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Artie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0101",
+      "Value": {
+        "ID": "name_qsb100100_0101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wurke"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0201",
+      "Value": {
+        "ID": "name_qsb100100_0201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tosaka"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0301",
+      "Value": {
+        "ID": "name_qsb100100_0301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Eggart"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0401",
+      "Value": {
+        "ID": "name_qsb100100_0401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ingo"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0501",
+      "Value": {
+        "ID": "name_qsb100100_0501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tetch"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0701",
+      "Value": {
+        "ID": "name_qsb100100_0701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sheldy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0801",
+      "Value": {
+        "ID": "name_qsb100100_0801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Kraftwick"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_0901",
+      "Value": {
+        "ID": "name_qsb100100_0901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cottone"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100100_1001",
+      "Value": {
+        "ID": "name_qsb100100_1001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cashington"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0101",
+      "Value": {
+        "ID": "name_qsb100101_0101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tabble"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0201",
+      "Value": {
+        "ID": "name_qsb100101_0201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fielder"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0301",
+      "Value": {
+        "ID": "name_qsb100101_0301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jewelien"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0401",
+      "Value": {
+        "ID": "name_qsb100101_0401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Woodrow"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0501",
+      "Value": {
+        "ID": "name_qsb100101_0501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shama"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0601",
+      "Value": {
+        "ID": "name_qsb100101_0601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Laymor"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0701",
+      "Value": {
+        "ID": "name_qsb100101_0701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rapt"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0801",
+      "Value": {
+        "ID": "name_qsb100101_0801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lesgot"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0901",
+      "Value": {
+        "ID": "name_qsb100101_0901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Battel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0a01",
+      "Value": {
+        "ID": "name_qsb100101_0a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Yakikuni"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100101_0b01",
+      "Value": {
+        "ID": "name_qsb100101_0b01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Groont"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0101",
+      "Value": {
+        "ID": "name_qsb100201_0101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Vinta"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0201",
+      "Value": {
+        "ID": "name_qsb100201_0201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Grandpa Radish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0301",
+      "Value": {
+        "ID": "name_qsb100201_0301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Celli"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0401",
+      "Value": {
+        "ID": "name_qsb100201_0401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hitt"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0501",
+      "Value": {
+        "ID": "name_qsb100201_0501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gourm"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0601",
+      "Value": {
+        "ID": "name_qsb100201_0601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Van Cogh"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0701",
+      "Value": {
+        "ID": "name_qsb100201_0701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sella"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0801",
+      "Value": {
+        "ID": "name_qsb100201_0801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Nutty"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0901",
+      "Value": {
+        "ID": "name_qsb100201_0901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Timber"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100201_0a01",
+      "Value": {
+        "ID": "name_qsb100201_0a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Beane"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0101",
+      "Value": {
+        "ID": "name_qsb100301_0101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Runner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0201",
+      "Value": {
+        "ID": "name_qsb100301_0201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hansum"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0301",
+      "Value": {
+        "ID": "name_qsb100301_0301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Artyom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0401",
+      "Value": {
+        "ID": "name_qsb100301_0401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gorja"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0501",
+      "Value": {
+        "ID": "name_qsb100301_0501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Armie"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0601",
+      "Value": {
+        "ID": "name_qsb100301_0601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rughu"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0701",
+      "Value": {
+        "ID": "name_qsb100301_0701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cole"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0801",
+      "Value": {
+        "ID": "name_qsb100301_0801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Glitte"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0901",
+      "Value": {
+        "ID": "name_qsb100301_0901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bois"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100301_0a01",
+      "Value": {
+        "ID": "name_qsb100301_0a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Reelum"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0101",
+      "Value": {
+        "ID": "name_qsb100401_0101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0201",
+      "Value": {
+        "ID": "name_qsb100401_0201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Garde"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0301",
+      "Value": {
+        "ID": "name_qsb100401_0301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gifton"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0401",
+      "Value": {
+        "ID": "name_qsb100401_0401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Heela"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0501",
+      "Value": {
+        "ID": "name_qsb100401_0501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Krisus"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0601",
+      "Value": {
+        "ID": "name_qsb100401_0601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Theese"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0701",
+      "Value": {
+        "ID": "name_qsb100401_0701",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sussa"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0801",
+      "Value": {
+        "ID": "name_qsb100401_0801",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hurrey"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0901",
+      "Value": {
+        "ID": "name_qsb100401_0901",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mushe"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0a01",
+      "Value": {
+        "ID": "name_qsb100401_0a01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Strok"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb100401_0b01",
+      "Value": {
+        "ID": "name_qsb100401_0b01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ventry"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb200000_0101",
+      "Value": {
+        "ID": "name_qsb200000_0101",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Haniwendy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb200000_0201",
+      "Value": {
+        "ID": "name_qsb200000_0201",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "McCowing"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb200000_0301",
+      "Value": {
+        "ID": "name_qsb200000_0301",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Terrapapa"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb200000_0401",
+      "Value": {
+        "ID": "name_qsb200000_0401",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Primasilea"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb200000_0501",
+      "Value": {
+        "ID": "name_qsb200000_0501",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gonk"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsb200000_0601",
+      "Value": {
+        "ID": "name_qsb200000_0601",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pyroscoe"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_test",
+      "Value": {
+        "ID": "name_test",
+        "textInfo": []
+      }
+    },
+    {
+      "Key": "name_shop_00",
+      "Value": {
+        "ID": "name_shop_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Store Clerk"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901300_00",
+      "Value": {
+        "ID": "name_qsa_chr901300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Merchant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900b00_00",
+      "Value": {
+        "ID": "name_qsa_chr900b00_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Arsenio"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900b00_01",
+      "Value": {
+        "ID": "name_qsa_chr900b00_01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gardon"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901500_00",
+      "Value": {
+        "ID": "name_qsa_chr901500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Market Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900903_00",
+      "Value": {
+        "ID": "name_qsa_chr900903_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Luna"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900904_00",
+      "Value": {
+        "ID": "name_qsa_chr900904_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plainn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900200_00",
+      "Value": {
+        "ID": "name_qsa_chr900200_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shepherd Boy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900c00_00",
+      "Value": {
+        "ID": "name_qsa_chr900c00_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tabarri"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903000_00",
+      "Value": {
+        "ID": "name_qsa_chr903000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Raggdol"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900201_00",
+      "Value": {
+        "ID": "name_qsa_chr900201_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Beryl"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901600_00",
+      "Value": {
+        "ID": "name_qsa_chr901600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gem Collector"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903100_00",
+      "Value": {
+        "ID": "name_qsa_chr903100_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bagua"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900202_00",
+      "Value": {
+        "ID": "name_qsa_chr900202_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chopin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900600_00",
+      "Value": {
+        "ID": "name_qsa_chr900600_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sardino"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901902_00",
+      "Value": {
+        "ID": "name_qsa_chr901902_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Whiskers"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900f00_00",
+      "Value": {
+        "ID": "name_qsa_chr900f00_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shop Owner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900f00_10",
+      "Value": {
+        "ID": "name_qsa_chr900f00_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lanche"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901601_00",
+      "Value": {
+        "ID": "name_qsa_chr901601_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Broyle"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900101_00",
+      "Value": {
+        "ID": "name_qsa_chr900101_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Clank"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901600_10",
+      "Value": {
+        "ID": "name_qsa_chr901600_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Nickello"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900402_00",
+      "Value": {
+        "ID": "name_qsa_chr900402_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ferris"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903300_00",
+      "Value": {
+        "ID": "name_qsa_chr903300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mezza"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900501_00",
+      "Value": {
+        "ID": "name_qsa_chr900501_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chantille"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901901_00",
+      "Value": {
+        "ID": "name_qsa_chr901901_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Angel"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901500_10",
+      "Value": {
+        "ID": "name_qsa_chr901500_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mama"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900102_00",
+      "Value": {
+        "ID": "name_qsa_chr900102_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crochette"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900900_10",
+      "Value": {
+        "ID": "name_qsa_chr900900_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Toto"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900b00_03",
+      "Value": {
+        "ID": "name_qsa_chr900b00_03",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900b00_04",
+      "Value": {
+        "ID": "name_qsa_chr900b00_04",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900400_00",
+      "Value": {
+        "ID": "name_qsa_chr900400_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Old Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900400_10",
+      "Value": {
+        "ID": "name_qsa_chr900400_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jay"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900600_10",
+      "Value": {
+        "ID": "name_qsa_chr900600_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Umaru"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900500_00",
+      "Value": {
+        "ID": "name_qsa_chr900500_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Farah"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900900_00",
+      "Value": {
+        "ID": "name_qsa_chr900900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Scruff"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901502_00",
+      "Value": {
+        "ID": "name_qsa_chr901502_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Carina"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900600_20",
+      "Value": {
+        "ID": "name_qsa_chr900600_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Child"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900600_30",
+      "Value": {
+        "ID": "name_qsa_chr900600_30",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Elke"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901900_00",
+      "Value": {
+        "ID": "name_qsa_chr901900_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cat"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901a00_00",
+      "Value": {
+        "ID": "name_qsa_chr901a00_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dog"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900200_10",
+      "Value": {
+        "ID": "name_qsa_chr900200_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903300_10",
+      "Value": {
+        "ID": "name_qsa_chr903300_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901600_20",
+      "Value": {
+        "ID": "name_qsa_chr901600_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903300_20",
+      "Value": {
+        "ID": "name_qsa_chr903300_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900300_00",
+      "Value": {
+        "ID": "name_qsa_chr900300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Granny Dumpling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900b00_10",
+      "Value": {
+        "ID": "name_qsa_chr900b00_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903300_30",
+      "Value": {
+        "ID": "name_qsa_chr903300_30",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Young Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900500_10",
+      "Value": {
+        "ID": "name_qsa_chr900500_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Herin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901102_00",
+      "Value": {
+        "ID": "name_qsa_chr901102_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Soprano"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901b00_00",
+      "Value": {
+        "ID": "name_qsa_chr901b00_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Brave Soldier"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903000_10",
+      "Value": {
+        "ID": "name_qsa_chr903000_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900300_10",
+      "Value": {
+        "ID": "name_qsa_chr900300_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Old Lady"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900300_20",
+      "Value": {
+        "ID": "name_qsa_chr900300_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Teacher"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901600_30",
+      "Value": {
+        "ID": "name_qsa_chr901600_30",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Man"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901400_10",
+      "Value": {
+        "ID": "name_qsa_chr901400_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Morgan"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901400_20",
+      "Value": {
+        "ID": "name_qsa_chr901400_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Man at the Market"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900500_20",
+      "Value": {
+        "ID": "name_qsa_chr900500_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Lana"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903000_20",
+      "Value": {
+        "ID": "name_qsa_chr903000_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901600_40",
+      "Value": {
+        "ID": "name_qsa_chr901600_40",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Herin's Dad"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903100_10",
+      "Value": {
+        "ID": "name_qsa_chr903100_10",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900b00_20",
+      "Value": {
+        "ID": "name_qsa_chr900b00_20",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_enm102001_00",
+      "Value": {
+        "ID": "name_qsa_enm102001_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Merina"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr903000_30",
+      "Value": {
+        "ID": "name_qsa_chr903000_30",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shaman"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900600_40",
+      "Value": {
+        "ID": "name_qsa_chr900600_40",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Elke"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr901000_00",
+      "Value": {
+        "ID": "name_qsa_chr901000_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pastelle"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr904300_00",
+      "Value": {
+        "ID": "name_qsa_chr904300_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Patro"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_qsa_chr900602_00",
+      "Value": {
+        "ID": "name_qsa_chr900602_00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Teluce"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_001",
+      "Value": {
+        "ID": "name_shop_chara_001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Armory"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_003",
+      "Value": {
+        "ID": "name_shop_chara_003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Weapon Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_004",
+      "Value": {
+        "ID": "name_shop_chara_004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Armor Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_005",
+      "Value": {
+        "ID": "name_shop_chara_005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Material Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_006",
+      "Value": {
+        "ID": "name_shop_chara_006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Inn"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_007",
+      "Value": {
+        "ID": "name_shop_chara_007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tool Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_008",
+      "Value": {
+        "ID": "name_shop_chara_008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Restaurant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_009",
+      "Value": {
+        "ID": "name_shop_chara_009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Tavern"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_010",
+      "Value": {
+        "ID": "name_shop_chara_010",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Collector's Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_012",
+      "Value": {
+        "ID": "name_shop_chara_012",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Macho Muscle Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_shop_chara_011",
+      "Value": {
+        "ID": "name_shop_chara_011",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Luxurious Shop"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_001",
+      "Value": {
+        "ID": "name_bulletin_board_001",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fire Angeltree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_002",
+      "Value": {
+        "ID": "name_bulletin_board_002",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fire Starcrystal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_003",
+      "Value": {
+        "ID": "name_bulletin_board_003",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wind Angeltree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_004",
+      "Value": {
+        "ID": "name_bulletin_board_004",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Wind Starcrystal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_005",
+      "Value": {
+        "ID": "name_bulletin_board_005",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Recluse Cherry Tree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_006",
+      "Value": {
+        "ID": "name_bulletin_board_006",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Water Angeltree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_007",
+      "Value": {
+        "ID": "name_bulletin_board_007",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Water Starcrystal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_008",
+      "Value": {
+        "ID": "name_bulletin_board_008",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Earth Angeltree"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_009",
+      "Value": {
+        "ID": "name_bulletin_board_009",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Earth Starcrystal"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_010",
+      "Value": {
+        "ID": "name_bulletin_board_010",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Forest Lordfish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_011",
+      "Value": {
+        "ID": "name_bulletin_board_011",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Plains Lordfish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_012",
+      "Value": {
+        "ID": "name_bulletin_board_012",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Armored Onion"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_013",
+      "Value": {
+        "ID": "name_bulletin_board_013",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Swordfish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_014",
+      "Value": {
+        "ID": "name_bulletin_board_014",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Golden Swordfish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_015",
+      "Value": {
+        "ID": "name_bulletin_board_015",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bluescale Lordfish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_016",
+      "Value": {
+        "ID": "name_bulletin_board_016",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Great Spirit Radish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_017",
+      "Value": {
+        "ID": "name_bulletin_board_017",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hidden Strangeling"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_018",
+      "Value": {
+        "ID": "name_bulletin_board_018",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cherry Lordfish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_bulletin_board_019",
+      "Value": {
+        "ID": "name_bulletin_board_019",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rainbow Flying Fish"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_arena_rank_01",
+      "Value": {
+        "ID": "name_arena_rank_01",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Beginner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_arena_rank_02",
+      "Value": {
+        "ID": "name_arena_rank_02",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Aspirant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_arena_rank_03",
+      "Value": {
+        "ID": "name_arena_rank_03",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Brawler"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_arena_rank_04",
+      "Value": {
+        "ID": "name_arena_rank_04",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Elite"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_arena_rank_05",
+      "Value": {
+        "ID": "name_arena_rank_05",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gladiator"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_arena_rank_06",
+      "Value": {
+        "ID": "name_arena_rank_06",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Champion"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000100",
+      "Value": {
+        "ID": "nickname_chr000100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Plucky Princess"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000200",
+      "Value": {
+        "ID": "nickname_chr000200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Dragonslayer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000300",
+      "Value": {
+        "ID": "nickname_chr000300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Spirit Forest Hunter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000400",
+      "Value": {
+        "ID": "nickname_chr000400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Magician of Seals"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000500",
+      "Value": {
+        "ID": "nickname_chr000500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Pirate Princess"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000600",
+      "Value": {
+        "ID": "nickname_chr000600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Gentle Sultan"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000700",
+      "Value": {
+        "ID": "nickname_chr000700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Black Knight"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000800",
+      "Value": {
+        "ID": "nickname_chr000800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mysterious Butterfly"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000900",
+      "Value": {
+        "ID": "nickname_chr000900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Woolly Tailor"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000a00",
+      "Value": {
+        "ID": "nickname_chr000a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Forgetful Miner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000b00",
+      "Value": {
+        "ID": "nickname_chr000b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Fishing Fanatic"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000c00",
+      "Value": {
+        "ID": "nickname_chr000c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Nature-Loving Logger"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000d00",
+      "Value": {
+        "ID": "nickname_chr000d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Battlefield Chef"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000e00",
+      "Value": {
+        "ID": "nickname_chr000e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Paladin Captain"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr000f00",
+      "Value": {
+        "ID": "nickname_chr000f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Sword of Castele"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001000",
+      "Value": {
+        "ID": "nickname_chr001000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crybaby Paladin"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001100",
+      "Value": {
+        "ID": "nickname_chr001100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Black Wolf"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001200",
+      "Value": {
+        "ID": "nickname_chr001200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Merc Idol of Ice"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001300",
+      "Value": {
+        "ID": "nickname_chr001300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Crimson Mercenary"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001400",
+      "Value": {
+        "ID": "nickname_chr001400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cool-Headed Hunter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001500",
+      "Value": {
+        "ID": "nickname_chr001500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gale-Gifted Hunter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001600",
+      "Value": {
+        "ID": "nickname_chr001600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Little Hunter Boy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001700",
+      "Value": {
+        "ID": "nickname_chr001700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Icewolf Magician"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001800",
+      "Value": {
+        "ID": "nickname_chr001800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Caring Magician"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001900",
+      "Value": {
+        "ID": "nickname_chr001900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sleepy Magician"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001a00",
+      "Value": {
+        "ID": "nickname_chr001a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Seismic Miner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002500",
+      "Value": {
+        "ID": "nickname_chr002500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Combat Craftmaster"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001b00",
+      "Value": {
+        "ID": "nickname_chr001b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snowy Silver Miner"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001c00",
+      "Value": {
+        "ID": "nickname_chr001c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Blazing Bear"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001d00",
+      "Value": {
+        "ID": "nickname_chr001d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sea Swept Lumberjack"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001e00",
+      "Value": {
+        "ID": "nickname_chr001e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sea-Smitten Angler"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr001f00",
+      "Value": {
+        "ID": "nickname_chr001f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fishing Maiden"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002000",
+      "Value": {
+        "ID": "nickname_chr002000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Devil of Blackiron"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002100",
+      "Value": {
+        "ID": "nickname_chr002100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Trendy Blacksmith"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002200",
+      "Value": {
+        "ID": "nickname_chr002200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fresh-Faced Smithy"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002300",
+      "Value": {
+        "ID": "nickname_chr002300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cunning Merchant"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002400",
+      "Value": {
+        "ID": "nickname_chr002400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Innocent Carpenter"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002600",
+      "Value": {
+        "ID": "nickname_chr002600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gifted Royal Tailor"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002700",
+      "Value": {
+        "ID": "nickname_chr002700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Talkative Tailor"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002800",
+      "Value": {
+        "ID": "nickname_chr002800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Gifted Royal Chef"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002900",
+      "Value": {
+        "ID": "nickname_chr002900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Insatiable Cook"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002a00",
+      "Value": {
+        "ID": "nickname_chr002a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Explosive Alchemist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002b00",
+      "Value": {
+        "ID": "nickname_chr002b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Moonlight Alchemist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002c00",
+      "Value": {
+        "ID": "nickname_chr002c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Romantic Alchemist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002d00",
+      "Value": {
+        "ID": "nickname_chr002d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Forest Guardian"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002e00",
+      "Value": {
+        "ID": "nickname_chr002e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "\"Bad Boy\" Artiste"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr002f00",
+      "Value": {
+        "ID": "nickname_chr002f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Corny Crusher"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr003100",
+      "Value": {
+        "ID": "nickname_chr003100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "The Eastern Artist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr003200",
+      "Value": {
+        "ID": "nickname_chr003200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Spiritdancer Artist"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "nickname_chr003400",
+      "Value": {
+        "ID": "nickname_chr003400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "\"Bad Boy\" Farmer"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000100",
+      "Value": {
+        "ID": "name_phantom_chr000100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Laura's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000200",
+      "Value": {
+        "ID": "name_phantom_chr000200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Glenn's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000300",
+      "Value": {
+        "ID": "name_phantom_chr000300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Leilah's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000400",
+      "Value": {
+        "ID": "name_phantom_chr000400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Colin's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000500",
+      "Value": {
+        "ID": "name_phantom_chr000500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Olivia's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000600",
+      "Value": {
+        "ID": "name_phantom_chr000600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Daemon's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000700",
+      "Value": {
+        "ID": "name_phantom_chr000700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Odin's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000900",
+      "Value": {
+        "ID": "name_phantom_chr000900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Shea's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000a00",
+      "Value": {
+        "ID": "name_phantom_chr000a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Duglas's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000b00",
+      "Value": {
+        "ID": "name_phantom_chr000b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Isaac's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000c00",
+      "Value": {
+        "ID": "name_phantom_chr000c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Monika's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000d00",
+      "Value": {
+        "ID": "name_phantom_chr000d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Chakpo's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000e00",
+      "Value": {
+        "ID": "name_phantom_chr000e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Mustang's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr000f00",
+      "Value": {
+        "ID": "name_phantom_chr000f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jake's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001000",
+      "Value": {
+        "ID": "name_phantom_chr001000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hilda's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001100",
+      "Value": {
+        "ID": "name_phantom_chr001100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fang's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001200",
+      "Value": {
+        "ID": "name_phantom_chr001200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Snow's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001300",
+      "Value": {
+        "ID": "name_phantom_chr001300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Rouge's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001400",
+      "Value": {
+        "ID": "name_phantom_chr001400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Fern's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001500",
+      "Value": {
+        "ID": "name_phantom_chr001500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hawke's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001600",
+      "Value": {
+        "ID": "name_phantom_chr001600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Jerry's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001700",
+      "Value": {
+        "ID": "name_phantom_chr001700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cliff's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001800",
+      "Value": {
+        "ID": "name_phantom_chr001800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Hazel's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001900",
+      "Value": {
+        "ID": "name_phantom_chr001900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sloane's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001a00",
+      "Value": {
+        "ID": "name_phantom_chr001a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Grantz's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001b00",
+      "Value": {
+        "ID": "name_phantom_chr001b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sylvia's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001c00",
+      "Value": {
+        "ID": "name_phantom_chr001c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bearhart's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001d00",
+      "Value": {
+        "ID": "name_phantom_chr001d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Orlando's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001e00",
+      "Value": {
+        "ID": "name_phantom_chr001e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ahab's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr001f00",
+      "Value": {
+        "ID": "name_phantom_chr001f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Teruha's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002000",
+      "Value": {
+        "ID": "name_phantom_chr002000",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Bray's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002100",
+      "Value": {
+        "ID": "name_phantom_chr002100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Magmia's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002200",
+      "Value": {
+        "ID": "name_phantom_chr002200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Ian's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002300",
+      "Value": {
+        "ID": "name_phantom_chr002300",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cormell's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002400",
+      "Value": {
+        "ID": "name_phantom_chr002400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Cherry's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002500",
+      "Value": {
+        "ID": "name_phantom_chr002500",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Kunugi's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002600",
+      "Value": {
+        "ID": "name_phantom_chr002600",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Klaus' Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002700",
+      "Value": {
+        "ID": "name_phantom_chr002700",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Taylor's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002800",
+      "Value": {
+        "ID": "name_phantom_chr002800",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Allan's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002900",
+      "Value": {
+        "ID": "name_phantom_chr002900",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Nommie's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002a00",
+      "Value": {
+        "ID": "name_phantom_chr002a00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Flamel's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002b00",
+      "Value": {
+        "ID": "name_phantom_chr002b00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Sophie's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002c00",
+      "Value": {
+        "ID": "name_phantom_chr002c00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Demiel's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002d00",
+      "Value": {
+        "ID": "name_phantom_chr002d00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pino's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002e00",
+      "Value": {
+        "ID": "name_phantom_chr002e00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Pierre's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr002f00",
+      "Value": {
+        "ID": "name_phantom_chr002f00",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Roisin's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr003100",
+      "Value": {
+        "ID": "name_phantom_chr003100",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Kikyo's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr003200",
+      "Value": {
+        "ID": "name_phantom_chr003200",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Meime's Phantom"
+          }
+        ]
+      }
+    },
+    {
+      "Key": "name_phantom_chr003400",
+      "Value": {
+        "ID": "name_phantom_chr003400",
+        "textInfo": [
+          {
+            "nounSingularForm_en": "Butch's Phantom"
+          }
+        ]
+      }
+    }
+  ]
+}

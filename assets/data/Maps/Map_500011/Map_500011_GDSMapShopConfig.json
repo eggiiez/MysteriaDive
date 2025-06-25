@@ -1,0 +1,40 @@
+{
+  "m_dataMap": [
+    {
+      "Key": {
+        "crc": 3847198614,
+        "Name": "npc_map500011_02"
+      },
+      "Value": {
+        "ID": {
+          "crc": 3847198614,
+          "Name": "npc_map500011_02"
+        },
+        "shopInfoArray": [
+          {
+            "shopId": "shop_Map500011_all_00",
+            "cond": []
+          }
+        ]
+      }
+    },
+    {
+      "Key": {
+        "crc": 4160370808,
+        "Name": "npc_map500011_01"
+      },
+      "Value": {
+        "ID": {
+          "crc": 4160370808,
+          "Name": "npc_map500011_01"
+        },
+        "shopInfoArray": [
+          {
+            "shopId": "shop_infrastructure_kit_sell",
+            "cond": []
+          }
+        ]
+      }
+    }
+  ]
+}
